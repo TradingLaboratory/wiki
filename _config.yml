@@ -1,0 +1,22 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-slate
+
+# Site settings
+title: TradingLaboratory Wiki
+description: База знаний об индикаторах и стратегиях
+author: TradingLaboratory
+
+# URL settings
+url: https://tradinglaboratory.github.io
+baseurl: /wiki
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
