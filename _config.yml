@@ -1,32 +1,10 @@
 title: TradingLaboratory Wiki
-description: База знаний об индикаторах и стратегиях для торговли
+description: База знаний об индикаторах и стратегиях
 theme: minima
 
-# НАВИГАЦИЯ В ШАПКЕ (ОБЯЗАТЕЛЬНО!)
+# Навигация в шапке
 header_pages:
   - index.md
   - getting-started.md
   - api.md
   - examples.md
-  - troubleshooting.md
-
-# URL settings
-url: "https://tradinglaboratory.github.io"
-baseurl: /wiki
-
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-# Плагины
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Исключения
-exclude:
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
