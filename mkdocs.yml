@@ -10,12 +10,13 @@ theme:
     - search.suggest
     - content.code.copy
 
-nav:
+nav:  
   - Главная: index.md
-  - Getting Started: getting-started.md
-  - API Documentation: api.md
-  - Examples: examples.md
-  - Troubleshooting: troubleshooting.md
+  # ← можно делать вложенные разделы (используем не табулятор, а 2 пробела)
+  - Начало работы: getting-started.md
+    - API Documentation: api.md
+    - Examples: examples.md
+  - Решение проблем: troubleshooting.md
 
 markdown_extensions:
   - pymdownx.superfences
