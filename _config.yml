@@ -7,7 +7,7 @@ description: База знаний об индикаторах и стратег
 author: TradingLaboratory
 
 # URL settings
-url: https://tradinglaboratory.github.io
+url: "https://tradinglaboratory.github.io"
 baseurl: /wiki
 
 # Markdown settings
