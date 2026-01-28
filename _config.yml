@@ -1,22 +1,23 @@
-# GitHub Pages Configuration
-theme: jekyll-theme-cayman
-
-# Site settings
 title: TradingLaboratory Wiki
 description: База знаний об индикаторах и стратегиях
-author: TradingLaboratory
+theme: just-the-docs
 
 # URL settings
 url: "https://tradinglaboratory.github.io"
 baseurl: /wiki
 
-# Markdown settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
+# Color scheme
+color_scheme: default
 
-# GitHub Pages settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+# Enable search
+search_enabled: true
+
+# Enable headings anchors
+heading_anchors: true
+
+# Footer "Built with Jekyll" link
+footer_content: "© 2026 TradingLaboratory"
+
+# Aux links (показываются внизу боковой панели)
+aux_links:
+  GitHub: https://github.com/TradingLaboratory/wiki
