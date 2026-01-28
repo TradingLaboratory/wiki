@@ -1,34 +1,31 @@
 title: TradingLaboratory Wiki
 description: База знаний об индикаторах и стратегиях для торговли
-theme: just-the-docs
+theme: minima
 
+# НАВИГАЦИЯ В ШАПКЕ (ОБЯЗАТЕЛЬНО!)
+header_pages:
+  - index.md
+  - getting-started.md
+  - api.md
+  - examples.md
+  - troubleshooting.md
+
+# URL settings
 url: "https://tradinglaboratory.github.io"
 baseurl: /wiki
 
-# Color scheme (light/dark/default)
-color_scheme: default
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
-# Search
-search_enabled: true
+# Плагины
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Heading anchors
-heading_anchors: true
-
-# Footer
-footer_content: "© 2026 TradingLaboratory. Все права защищены."
-
-# Links in bottom of sidebar
-aux_links:
-  GitHub:
-    - "https://github.com/TradingLaboratory/wiki"
-
-# Collections (docs pages)
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
-
-# Exclude files from processing
+# Исключения
 exclude:
   - Gemfile.lock
   - node_modules/
