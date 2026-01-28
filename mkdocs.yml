@@ -1,0 +1,28 @@
+site_name: TradingLaboratory Wiki
+site_url: https://tradinglaboratory.github.io/wiki/
+theme:
+  name: material
+  palette:
+    primary: indigo
+    scheme: default
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Главная: index.md
+  - Getting Started: getting-started.md
+  - API Documentation: api.md
+  - Examples: examples.md
+  - Troubleshooting: troubleshooting.md
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+  - tables
+  - admonition
