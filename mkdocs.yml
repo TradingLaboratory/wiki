@@ -6,7 +6,7 @@ theme:
     primary: indigo
     scheme: default
   features:
-    - navigation.tabs
+    # - navigation.tabs    # ← это показывает вкладки сверху
     - search.suggest
     - content.code.copy
 
