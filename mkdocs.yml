@@ -62,6 +62,7 @@ nav:
       - OverlapStudies: #Подраздел 
         # Конкретные индикаторы из подпапки
         - WMA: TALib-Indicators/Wma-TALib.md
+        - SarExt: TALib-Indicators/SarExt-TALib.md
       - MomentumIndicators:
         - Williams %R: TALib-Indicators/WillR-TALib.md
         - MinusDI: TALib-Indicators/MinusDI-TALib.md
