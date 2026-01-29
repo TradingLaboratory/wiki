@@ -1,10 +1,11 @@
-# TradingLaboratory Wiki
+# TrendTeam Wiki
 
 База знаний об индикаторах и стратегиях для торговли на фондовом рынке и крипто.
 
 ## 📚 Разделы
 
 - [Getting Started](getting-started.md) — Как начать
+- [Индикаторы TSLab](TSLab-Indicators.md) — Список всех индикаторов TSLab
 - [API Documentation](api.md) — Описание API
 - [Examples](examples.md) — Примеры кода
 - [Troubleshooting](troubleshooting.md) — Решение проблем
