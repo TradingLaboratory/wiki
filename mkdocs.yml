@@ -48,17 +48,18 @@ nav:
     - API Documentation: api.md
     # Подраздел "Examples" (3-й уровень)
     - Examples: examples.md
-  
-  # Раздел "Индикаторы" с подразделами
-  - Индикаторы:
-    # Страница "Индикаторы TSLab"
-    - Индикаторы TSLab: TSLab-Indicators.md
-    # Раздел "Индикаторы TALib" с подразделами
-    - Индикаторы TALib:
-      # Страница "Обзор" из корневого файла TALib-Indicators.md
-      - Обзор: TALib-Indicators.md
-      # Конкретные индикаторы из подпапки
-      - WMA: TALib-Indicators/Wma-TALib.md
+   
+  - Индикаторы: # Раздел "Индикаторы" с подразделами
+   
+    - Индикаторы TSLab: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
+    
+    - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
+      
+      - Обзор: TALib-Indicators.md # Страница "Обзор" из корневого файла TALib-Indicators.md
+
+      - OverlapStudies: #Подраздел 
+        # Конкретные индикаторы из подпапки
+        - WMA: TALib-Indicators/Wma-TALib.md
   
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
