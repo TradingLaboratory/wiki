@@ -67,6 +67,7 @@ nav:
         - Williams %R: TALib-Indicators/WillR-TALib.md
         - MinusDI: TALib-Indicators/MinusDI-TALib.md
         - Ppo: TALib-Indicators/Ppo-TALib.md
+        - UltOsc: TALib-Indicators/UltOsc-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib-Indicators/MinMaxIndex-TALib.md
       - MathTransform:
