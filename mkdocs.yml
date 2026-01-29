@@ -65,6 +65,7 @@ nav:
       - MomentumIndicators:
         - Williams %R: TALib-Indicators/WillR-TALib.md
         - MinusDI: TALib-Indicators/MinusDI-TALib.md
+        - Ppo: TALib-Indicators/Ppo-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib-Indicators/MinMaxIndex-TALib.md
     #- Индикаторы Vito (vvHandlers):
