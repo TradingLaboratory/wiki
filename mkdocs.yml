@@ -6,7 +6,7 @@
 site_name: TrendTeam Wiki
 
 # URL сайта (для правильных ссылок при публикации)
-site_url: https://tradinglaboratory.github.io/wiki/
+site_url: https://tradinglaboratory.github.io/wiki/  
 
 # ============================================================
 # ТЕМА ОФОРМЛЕНИЯ
@@ -49,15 +49,19 @@ nav:
     # Подраздел "Examples" (3-й уровень)
     - Examples: examples.md
   
-
-  - Индикаторы: 
-    # Страница "Индикаторы TSLab" (корневой уровень)
+  # Раздел "Индикаторы" с подразделами
+  - Индикаторы:
+    # Страница "Индикаторы TSLab"
     - Индикаторы TSLab: TSLab-Indicators.md
-    
-
-    # Страница "Индикаторы TALib" (корневой уровень)
-    - Индикаторы TALib: TALib-Indicators.md
-      WMA: TALib-Indicators/WmaTALib.md
+    # Раздел "Индикаторы TALib" с подразделами
+    - Индикаторы TALib:
+      # Страница "Обзор" из корневого файла TALib-Indicators.md
+      - Обзор: TALib-Indicators.md
+      # Конкретные индикаторы из подпапки
+      - WMA: TALib-Indicators/WmaTALib.md
+  
+  # Страница "Решение проблем"
+  - Решение проблем: troubleshooting.md
 
 # ============================================================
 # РАСШИРЕНИЯ MARKDOWN
