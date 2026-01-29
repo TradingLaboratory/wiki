@@ -58,7 +58,7 @@ nav:
       # Страница "Обзор" из корневого файла TALib-Indicators.md
       - Обзор: TALib-Indicators.md
       # Конкретные индикаторы из подпапки
-      - WMA: TALib-Indicators/WmaTALib.md
+      - WMA: TALib-Indicators/Wma-TALib.md
   
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
