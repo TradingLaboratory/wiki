@@ -51,7 +51,8 @@ nav:
    
   - Индикаторы: # Раздел "Индикаторы" с подразделами
    
-    - Индикаторы TSLab: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
+    - Индикаторы TSLab: 
+      - Обзор: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
     
     - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
       
@@ -60,7 +61,10 @@ nav:
       - OverlapStudies: #Подраздел 
         # Конкретные индикаторы из подпапки
         - WMA: TALib-Indicators/Wma-TALib.md
-  
+      - MomentumIndicators:
+        - Williams %R: TALib-Indicators/WillR-TALib.md
+    - Индикаторы Vito (vvHandlers):
+    - Индикаторы Wealth-Lab (WL8):
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
 
