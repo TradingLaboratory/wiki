@@ -68,6 +68,8 @@ nav:
         - Ppo: TALib-Indicators/Ppo-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib-Indicators/MinMaxIndex-TALib.md
+      - MathTransform:
+        - Sqrt: TALib-Indicators/Sqrt-TALib.md
     #- Индикаторы Vito (vvHandlers):
     #- Индикаторы Wealth-Lab (WL8):
   # Страница "Решение проблем"
