@@ -53,9 +53,11 @@ nav:
   - Индикаторы: 
     # Страница "Индикаторы TSLab" (корневой уровень)
     - Индикаторы TSLab: TSLab-Indicators.md
+    
 
     # Страница "Индикаторы TALib" (корневой уровень)
     - Индикаторы TALib: TALib-Indicators.md
+      WMA: TALib-Indicators/WmaTALib.md
 
 # ============================================================
 # РАСШИРЕНИЯ MARKDOWN
