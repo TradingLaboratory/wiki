@@ -63,8 +63,8 @@ nav:
         - WMA: TALib-Indicators/Wma-TALib.md
       - MomentumIndicators:
         - Williams %R: TALib-Indicators/WillR-TALib.md
-    - Индикаторы Vito (vvHandlers):
-    - Индикаторы Wealth-Lab (WL8):
+    #- Индикаторы Vito (vvHandlers):
+    #- Индикаторы Wealth-Lab (WL8):
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
 
