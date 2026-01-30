@@ -53,7 +53,8 @@ nav:
   - Индикаторы: # Раздел "Индикаторы" с подразделами
    
     - Индикаторы TSLab: 
-      - Обзор индикаторов TSLab: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
+      - TSLab - Indicators: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
+      - TSLab - TradMath: TSLab-TradingMathematics.md  
     
     - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
       
