@@ -55,10 +55,12 @@ nav:
     - Индикаторы TSLab: 
       - TSLab - Indicators: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
       - TSLab - TradMath: TSLab-TradingMathematics.md  
+      - TSLab - Portfolio: TSLab-Portfolio.md
+      - TSLab - Position: TSLab-Position.md
     
     - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
       
-      - Обзор индикаторов TALib: TALib-Indicators.md # Страница "Обзор" из корневого файла TALib-Indicators.md
+      - TALib - Indicators: TALib-Indicators.md # Страница "Обзор" из корневого файла TALib-Indicators.md
 
       - OverlapStudies: #Подраздел 
         # Конкретные индикаторы из подпапки
