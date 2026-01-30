@@ -5,8 +5,8 @@
 ## 📚 Разделы
 
 - [Getting Started](getting-started.md) — Как начать
-- [Индикаторы TSLab](TSLab-Indicators.md) — Список всех индикаторов TSLab
-- [Индикаторы TALib](TALib-Indicators.md) — Список всех индикаторов TALib
+- [Индикаторы TSLab](TSLab/TSLab-Indicators.md) — Список всех индикаторов TSLab
+- [Индикаторы TALib](TALib/TALib-Indicators.md) — Список всех индикаторов TALib
 - [API Documentation](api.md) — Описание API
 - [Examples](examples.md) — Примеры кода
 - [Troubleshooting](troubleshooting.md) — Решение проблем

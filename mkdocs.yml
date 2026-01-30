@@ -53,10 +53,11 @@ nav:
   - Индикаторы: # Раздел "Индикаторы" с подразделами
    
     - Индикаторы TSLab: 
-      - TSLab - Indicators: TSLab-Indicators.md  # Страница "Индикаторы TSLab"
-      - TSLab - TradMath: TSLab-TradingMathematics.md  
-      - TSLab - Portfolio: TSLab-Portfolio.md
-      - TSLab - Position: TSLab-Position.md
+      - TSLab - Indicators: TSLab/TSLab-Indicators.md  # Страница "Индикаторы TSLab"
+      - TSLab - TradMath: TSLab/TSLab-TradingMathematics.md  
+      - TSLab - Portfolio: TSLab/TSLab-Portfolio.md
+      - TSLab - Position: TSLab/TSLab-Position.md
+      - TSLab - ServiceElements: TSLab/TSLab-ServiceElements.md
     
     - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
       
@@ -64,17 +65,17 @@ nav:
 
       - OverlapStudies: #Подраздел 
         # Конкретные индикаторы из подпапки
-        - WMA: TALib-Indicators/Wma-TALib.md
-        - SarExt: TALib-Indicators/SarExt-TALib.md
+        - WMA: TALib/Wma-TALib.md
+        - SarExt: TALib/SarExt-TALib.md
       - MomentumIndicators:
-        - Williams %R: TALib-Indicators/WillR-TALib.md
-        - MinusDI: TALib-Indicators/MinusDI-TALib.md
-        - Ppo: TALib-Indicators/Ppo-TALib.md
-        - UltOsc: TALib-Indicators/UltOsc-TALib.md
+        - Williams %R: TALib/WillR-TALib.md
+        - MinusDI: TALib/MinusDI-TALib.md
+        - Ppo: TALib/Ppo-TALib.md
+        - UltOsc: TALib/UltOsc-TALib.md
       - MathOperators:
-        - MinMaxIndex: TALib-Indicators/MinMaxIndex-TALib.md
+        - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
-        - Sqrt: TALib-Indicators/Sqrt-TALib.md
+        - Sqrt: TALib/Sqrt-TALib.md
     #- Индикаторы Vito (vvHandlers):
     #- Индикаторы Wealth-Lab (WL8):
   # Страница "Решение проблем"
