@@ -54,10 +54,14 @@ nav:
   # Раздел "Пионеры теханализа"
   - Пионеры теханализа:
     - Обзор авторов: ta-pioneers/key-figures.md
+    
     - Welles Wilder: 
       - Краткая справка: ta-pioneers/wilder-welles.md
       - MinusDM (TALib): TALib/MomentumIndicators/MinusDM-TALib.md
-      - MinusDI (TALib): TALib/MinusDI-TALib.md
+      - PlusDM (TALib): TALib/MomentumIndicators/PlusDM-TALib.md
+      - MinusDI (TALib): TALib/MomentumIndicators/MinusDI-TALib.md
+      - PlusDI (TALib): TALib/MomentumIndicators/PlusDI-TALib.md
+    
     - Charles LeBeau: 
       - Краткая справка: ta-pioneers/lebeau-charles.md
   
@@ -94,6 +98,8 @@ nav:
         - Ppo: TALib/Ppo-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
         - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
+        - PlusDI: TALib/MomentumIndicators/PlusDI-TALib.md
+        - PlusDM: TALib/MomentumIndicators/PlusDM-TALib.md
       
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
@@ -102,6 +108,7 @@ nav:
         - Sqrt: TSLab/MathTransform/Sqrt-TALib.md
         - Tan: TSLab/MathTransform/Tan-TALib.md
         - Tanh: TSLab/MathTransform/Tanh-TALib.md
+        - Sinh: TSLab/MathTransform/Sinh-TALib.md
       
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
