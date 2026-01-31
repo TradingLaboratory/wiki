@@ -76,6 +76,7 @@ nav:
         # Конкретные индикаторы из подпапки
         - WMA: TALib/Wma-TALib.md
         - SarExt: TALib/SarExt-TALib.md
+        - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
       - MomentumIndicators:
         - Williams %R: TALib/WillR-TALib.md
         - MinusDI: TALib/MinusDI-TALib.md
@@ -96,7 +97,9 @@ nav:
       - VolumeIndicators:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
       - VolatilityIndicators:
-        - Natr: TALib/VolatilityIndicators/Natr-TALib.md  
+        - Natr: TALib/VolatilityIndicators/Natr-TALib.md
+      - StatisticFunctions:
+        - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
     - Индикаторы VITO:
       - Vito - Indicators: Vito/Vito-Indicators.md
 
