@@ -105,10 +105,10 @@ nav:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       
       - MathTransform:
-        - Sqrt: TSLab/MathTransform/Sqrt-TALib.md
-        - Tan: TSLab/MathTransform/Tan-TALib.md
-        - Tanh: TSLab/MathTransform/Tanh-TALib.md
-        - Sinh: TSLab/MathTransform/Sinh-TALib.md
+        - Sqrt: TALib/MathTransform/Sqrt-TALib.md
+        - Tan: TALib/MathTransform/Tan-TALib.md
+        - Tanh: TALib/MathTransform/Tanh-TALib.md
+        - Sinh: TALib/MathTransform/Sinh-TALib.md
       
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
