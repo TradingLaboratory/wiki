@@ -78,17 +78,19 @@ nav:
         - SarExt: TALib/SarExt-TALib.md
         - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
       - MomentumIndicators:
-        - Williams %R: TALib/WillR-TALib.md
-        - MinusDI: TALib/MinusDI-TALib.md
-        - Ppo: TALib/Ppo-TALib.md
-        - UltOsc: TALib/UltOsc-TALib.md
+        - Mom: TALib/MomentumIndicators/Mom-TALib.md
         - RateOfChange:
           - Roc: TALib/MomentumIndicators/Roc-TALib.md
           - RocP: TALib/MomentumIndicators/RocP-TALib.md
           - RocR: TALib/MomentumIndicators/RocR-TALib.md
           - RocR100: TALib/MomentumIndicators/RocR100-TALib.md
-        - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
         - StochRsi: TALib/MomentumIndicators/StochRsi-TALib.md
+        - Williams %R: TALib/WillR-TALib.md
+        - MinusDI: TALib/MinusDI-TALib.md
+        - Ppo: TALib/Ppo-TALib.md
+        - UltOsc: TALib/UltOsc-TALib.md
+        - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
+
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
