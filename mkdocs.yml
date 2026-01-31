@@ -118,13 +118,18 @@ nav:
     # Подраздел "Индикаторы VITO"
     - Индикаторы VITO:
       - Обзор: Vito/Vito-Indicators.md
+
       - OverlapStudies:
         - EMA_MT: Vito/OverlapStudies/EMA_MT-Vito.md
+
       - MomentumIndicators:
         - CalcLinearRegSlopeMS: Vito/MomentumIndicators/CalcLinearRegSlopeMS-Vito.md
         - GenILRS: Vito/MomentumIndicators/GenILRS-Vito.md
+        
       - ScalarCalc:
         - iILRS: Vito/ScalarCalc/iILRS-Vito.md
+        - iStdError: Vito/ScalarCalc/iStdError-Vito.md
+
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
 
