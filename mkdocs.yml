@@ -66,7 +66,7 @@ nav:
         - TSLab-Indicators: TSLab/TSLab-Indicators.md  # Страница "Индикаторы TSLab"
         - OverlapStudies: #Подраздел
           - # Конкретные индикаторы из подпапки
-          - EMA_MT: TSLab/EMA_MT-TSLab.md
+          - EMA_MT: TSLab/OverlapStudies/EMA_MT-TSLab.md
       - TSLab - TradMath: TSLab/TSLab-TradingMathematics.md  
       - TSLab - Portfolio: TSLab/TSLab-Portfolio.md
       - TSLab - Position: TSLab/TSLab-Position.md
