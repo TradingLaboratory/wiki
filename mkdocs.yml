@@ -6,7 +6,7 @@
 site_name: TrendTeam Wiki
 
 # URL сайта (для правильных ссылок при публикации)
-site_url: https://tradinglaboratory.github.io/wiki/  
+site_url: https://tradinglaboratory.github.io/wiki/    
 
 # ============================================================
 # ТЕМА ОФОРМЛЕНИЯ
@@ -30,6 +30,7 @@ theme:
     - content.code.copy    # ← кнопка "Копировать" у блоков кода
     - toc.follow           # ← оглавление справа следует за прокруткой
     # - toc.integrate      # ← Перемещает оглавление из правой части влево, интегрируя в основную навигацию
+
 # ============================================================
 # НАВИГАЦИЯ (ЛЕВАЯ ПАНЕЛЬ)
 # ============================================================
@@ -49,38 +50,39 @@ nav:
     - API Documentation: api.md
     # Подраздел "Examples" (3-й уровень)
     - Examples: examples.md
+  
+  # Раздел "Пионеры теханализа"
   - Пионеры теханализа:
-    - key-figures: 
-      - Обзор авторов: ta-pioneers/key-figures.md
+    - Обзор авторов: ta-pioneers/key-figures.md
     - Welles Wilder: 
       - Краткая справка: ta-pioneers/wilder-welles.md
       - MinusDM (TALib): TALib/MomentumIndicators/MinusDM-TALib.md
       - MinusDI (TALib): TALib/MinusDI-TALib.md
     - Charles LeBeau: 
       - Краткая справка: ta-pioneers/lebeau-charles.md
-
-  - Индикаторы: # Раздел "Индикаторы" с подразделами
-   
-    - Индикаторы TSLab: 
-      - TSLab-Indicators: TSLab/TSLab-Indicators.md  # Страница "Индикаторы TSLab"
-      - TSLab - Indicators: 
-        - OverlapStudies: #Подраздел
-          - # Конкретные индикаторы из подпапки
-          - EMA_MT: TSLab/OverlapStudies/EMA_MT-TSLab.md
-      - TSLab - TradMath: TSLab/TSLab-TradingMathematics.md  
-      - TSLab - Portfolio: TSLab/TSLab-Portfolio.md
-      - TSLab - Position: TSLab/TSLab-Position.md
-      - TSLab - ServiceElements: TSLab/TSLab-ServiceElements.md
+  
+  # Раздел "Индикаторы" с подразделами
+  - Индикаторы:
     
-    - Индикаторы TALib: # Раздел "Индикаторы TALib" с подразделами
+    # Подраздел "Индикаторы TSLab"
+    - Индикаторы TSLab:
+      - Обзор: TSLab/TSLab-Indicators.md
+      - OverlapStudies:
+        - EMA_MT: TSLab/OverlapStudies/EMA_MT-TSLab.md
+      - Trading Mathematics: TSLab/TSLab-TradingMathematics.md
+      - Portfolio: TSLab/TSLab-Portfolio.md
+      - Position: TSLab/TSLab-Position.md
+      - Service Elements: TSLab/TSLab-ServiceElements.md
+    
+    # Подраздел "Индикаторы TALib"
+    - Индикаторы TALib:
+      - Обзор: TALib/TALib-Indicators.md
       
-      - TALib - Indicators: TALib/TALib-Indicators.md # Страница "Обзор" из корневого файла TALib-Indicators.md
-
-      - OverlapStudies: #Подраздел 
-        # Конкретные индикаторы из подпапки
+      - OverlapStudies:
         - WMA: TALib/Wma-TALib.md
         - SarExt: TALib/SarExt-TALib.md
         - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
+      
       - MomentumIndicators:
         - Mom: TALib/MomentumIndicators/Mom-TALib.md
         - RateOfChange:
@@ -94,25 +96,31 @@ nav:
         - Ppo: TALib/Ppo-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
         - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
-
+      
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
+      
       - MathTransform:
-        - Sqrt: TALib/MathTransform/Sqrt-TALib.md
-        - Tan: TALib/MathTransform/Tan-TALib.md
-        - Tanh: TALib/MathTransform/Tanh-TALib.md
+        - Sqrt: TSLab/MathTransform/Sqrt-TALib.md
+        - Tan: TSLab/MathTransform/Tan-TALib.md
+        - Tanh: TSLab/MathTransform/Tanh-TALib.md
+      
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
+      
       - VolumeIndicators:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
+      
       - VolatilityIndicators:
         - Natr: TALib/VolatilityIndicators/Natr-TALib.md
+      
       - StatisticFunctions:
         - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
+    
+    # Подраздел "Индикаторы VITO"
     - Индикаторы VITO:
-      - Vito - Indicators: Vito/Vito-Indicators.md
-
-    #- Индикаторы Wealth-Lab (WL8):
+      - Обзор: Vito/Vito-Indicators.md
+  
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
 
