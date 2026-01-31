@@ -125,7 +125,11 @@ nav:
       - MomentumIndicators:
         - CalcLinearRegSlopeMS: Vito/MomentumIndicators/CalcLinearRegSlopeMS-Vito.md
         - GenILRS: Vito/MomentumIndicators/GenILRS-Vito.md
-        
+      
+      - StatisticFunctions:
+        - GenStdError: Vito/StatisticFunctions/GenStdError-Vito.md
+
+
       - ScalarCalc:
         - iILRS: Vito/ScalarCalc/iILRS-Vito.md
         - iStdError: Vito/ScalarCalc/iStdError-Vito.md
