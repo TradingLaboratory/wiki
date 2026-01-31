@@ -95,6 +95,8 @@ nav:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
       - VolumeIndicators:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
+      - VolatilityIndicators:
+        - Natr: TALib/VolatilityIndicators/Natr-TALib.md  
     - Индикаторы VITO:
       - Vito - Indicators: Vito/Vito-Indicators.md
 
