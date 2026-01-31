@@ -93,7 +93,7 @@ nav:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
         - Sqrt: TALib/Sqrt-TALib.md
-        - Sqrt: TALib/Tan-TALib.md
+        - Tan: TALib/Tan-TALib.md
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
       - VolumeIndicators:
