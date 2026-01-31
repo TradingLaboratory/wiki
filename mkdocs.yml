@@ -96,6 +96,7 @@ nav:
       - MathTransform:
         - Sqrt: TALib/MathTransform/Sqrt-TALib.md
         - Tan: TALib/MathTransform/Tan-TALib.md
+        - Tanh: TALib/MathTransform/Tanh-TALib.md
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
       - VolumeIndicators:
