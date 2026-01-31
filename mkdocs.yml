@@ -51,7 +51,11 @@ nav:
     - Examples: examples.md
   - ta-pioneers:
     - key-figures: ta-pioneers/key-figures.md
-    - J. Welles Wilder Jr.: ta-pioneers/wilder-welles.md
+    - Welles Wilder: 
+      - Краткая справка: ta-pioneers/wilder-welles.md
+      - MinusDM (TALib): TALib/MomentumIndicators/MinusDM-TALib.md
+      - MinusDI (TALib): TALib/MinusDI-TALib.md
+
   - Индикаторы: # Раздел "Индикаторы" с подразделами
    
     - Индикаторы TSLab: 
