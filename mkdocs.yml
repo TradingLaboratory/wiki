@@ -72,6 +72,7 @@ nav:
         - MinusDI: TALib/MinusDI-TALib.md
         - Ppo: TALib/Ppo-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
+        - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
