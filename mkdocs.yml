@@ -126,6 +126,7 @@ nav:
         
         - Averages:
           - EMA_MT: Vito/OverlapStudies/Averages/EMA_MT-Vito.md
+          - GenLRMA: Vito/OverlapStudies/Averages/GenLRMA-Vito.md
 
       - MomentumIndicators:
         - CalcLinearRegSlopeMS: Vito/MomentumIndicators/CalcLinearRegSlopeMS-Vito.md
