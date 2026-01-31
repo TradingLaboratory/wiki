@@ -79,6 +79,8 @@ nav:
         - Sqrt: TALib/Sqrt-TALib.md
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
+      - VolumeIndicators:
+        - Obv: TALib/VolumeIndicators/Obv-TALib.md
     - Индикаторы VITO:
       - Vito - Indicators: Vito/Vito-Indicators.md
 
