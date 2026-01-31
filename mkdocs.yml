@@ -67,8 +67,6 @@ nav:
     # Подраздел "Индикаторы TSLab"
     - Индикаторы TSLab:
       - Обзор: TSLab/TSLab-Indicators.md
-      - OverlapStudies:
-        - EMA_MT: TSLab/OverlapStudies/EMA_MT-TSLab.md
       - Trading Mathematics: TSLab/TSLab-TradingMathematics.md
       - Portfolio: TSLab/TSLab-Portfolio.md
       - Position: TSLab/TSLab-Position.md
@@ -120,6 +118,10 @@ nav:
     # Подраздел "Индикаторы VITO"
     - Индикаторы VITO:
       - Обзор: Vito/Vito-Indicators.md
+      - OverlapStudies:
+        - EMA_MT: Vito/OverlapStudies/EMA_MT-Vito.md
+      - MomentumIndicators:
+        - CalcLinearRegSlopeMS: Vito/MomentumIndicators/CalcLinearRegSlopeMS-Vito.md
   
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
