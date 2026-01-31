@@ -123,7 +123,8 @@ nav:
       - MomentumIndicators:
         - CalcLinearRegSlopeMS: Vito/MomentumIndicators/CalcLinearRegSlopeMS-Vito.md
         - GenILRS: Vito/MomentumIndicators/GenILRS-Vito.md
-  
+      - ScalarCalc:
+        - iILRS: Vito/ScalarCalc/iILRS-Vito.md
   # Страница "Решение проблем"
   - Решение проблем: troubleshooting.md
 
