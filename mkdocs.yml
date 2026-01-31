@@ -88,6 +88,7 @@ nav:
           - RocR: TALib/MomentumIndicators/RocR-TALib.md
           - RocR100: TALib/MomentumIndicators/RocR100-TALib.md
         - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
+        - StochRsi: TALib/MomentumIndicators/StochRsi-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
