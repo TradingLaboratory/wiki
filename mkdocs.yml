@@ -72,8 +72,12 @@ nav:
         - MinusDI: TALib/MinusDI-TALib.md
         - Ppo: TALib/Ppo-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
+        - RateOfChange:
+          - Roc: TALib/MomentumIndicators/Roc-TALib.md
+          - RocP: TALib/MomentumIndicators/RocP-TALib.md
+          - RocR: TALib/MomentumIndicators/RocR-TALib.md
+          - RocR100: TALib/MomentumIndicators/RocR100-TALib.md
         - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
-        - Roc: TALib/MomentumIndicators/Roc-TALib.md
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
