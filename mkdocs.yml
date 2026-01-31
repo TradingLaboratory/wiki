@@ -77,6 +77,8 @@ nav:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
       - MathTransform:
         - Sqrt: TALib/Sqrt-TALib.md
+      - PriceTransform:
+        - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
     - Индикаторы VITO:
       - Vito - Indicators: Vito/Vito-Indicators.md
 
