@@ -89,6 +89,7 @@ nav:
         - Averages:
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
+          - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
 
         - Trailings:
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
@@ -96,7 +97,7 @@ nav:
         # - Bands&Channels:
         
         
-        - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
+        
       
       - MomentumIndicators:
         - Mom: TALib/MomentumIndicators/Mom-TALib.md
