@@ -70,6 +70,12 @@ nav:
       - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
       - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
 
+    - Tushar Chande: 
+      - Краткая справка: ta-pioneers/chande-tushar.md
+      - AroonUp: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+      - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+      - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
+
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
       - Trix: TALib/MomentumIndicators/Trix-TALib.md
@@ -143,11 +149,14 @@ nav:
           - MinusDI: TALib/MomentumIndicators/TrendDirection/MinusDI-TALib.md
           - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
           - MinusDM: TALib/MomentumIndicators/TrendDirection/MinusDM-TALib.md
+          - AroonUp: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+          - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+        
         
         - TrendStrength:
           - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
           - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
-
+          - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md
 
       - MathOperators:
         - MinMaxIndex: TALib/MathOperators/MinMaxIndex-TALib.md
