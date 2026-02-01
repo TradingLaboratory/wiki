@@ -58,11 +58,16 @@ nav:
     
     - Welles Wilder: 
       - Краткая справка: ta-pioneers/wilder-welles.md
-      - MinusDM (TALib): TALib/MomentumIndicators/MinusDM-TALib.md
-      - PlusDM (TALib): TALib/MomentumIndicators/PlusDM-TALib.md
-      - MinusDI (TALib): TALib/MomentumIndicators/MinusDI-TALib.md
-      - PlusDI (TALib): TALib/MomentumIndicators/PlusDI-TALib.md
+      - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
+      - PlusDM: TALib/MomentumIndicators/PlusDM-TALib.md
+      - MinusDI: TALib/MomentumIndicators/MinusDI-TALib.md
+      - PlusDI: TALib/MomentumIndicators/PlusDI-TALib.md
     
+    - Patrick G. Mulloy:
+      - Краткая справка: ta-pioneers/mulloy-patrick.md
+      - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
+      - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
+
     - Charles LeBeau: 
       - Краткая справка: ta-pioneers/lebeau-charles.md
     
@@ -70,9 +75,7 @@ nav:
       - Краткая справка: ta-pioneers/tillson-tim.md
       - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
 
-    - Patrick G. Mulloy:
-      - Краткая справка: ta-pioneers/mulloy-patrick.md
-      - Tema (TALib): TALib/OverlapStudies/Averages/Tema-TALib.md
+
   
   # Раздел "Индикаторы" с подразделами
   - Индикаторы:
@@ -95,6 +98,7 @@ nav:
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
+          - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
 
         - Trailings:
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
