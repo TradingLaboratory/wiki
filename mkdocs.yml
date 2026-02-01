@@ -76,6 +76,10 @@ nav:
       - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
       - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
 
+    - Donald R. Lambert: 
+      - Краткая справка: ta-pioneers/lambert-donald.md
+      - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
+
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
       - Trix: TALib/MomentumIndicators/Trix-TALib.md
@@ -92,7 +96,9 @@ nav:
       - Краткая справка: ta-pioneers/tillson-tim.md
       - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
 
-
+    - Igor Levshin:
+      - Краткая справка: ta-pioneers/levshin-igor.md
+      - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
   
   # Раздел "Индикаторы" с подразделами
   - Индикаторы:
@@ -130,6 +136,7 @@ nav:
           - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
+          - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
 
         - UnboundedMomentum:
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
@@ -157,6 +164,7 @@ nav:
           - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
           - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
           - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md
+          - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
 
       - MathOperators:
         - MinMaxIndex: TALib/MathOperators/MinMaxIndex-TALib.md
