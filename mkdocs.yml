@@ -63,6 +63,10 @@ nav:
       - MinusDI: TALib/MomentumIndicators/MinusDI-TALib.md
       - PlusDI: TALib/MomentumIndicators/PlusDI-TALib.md
     
+    - Jack K. Hutson:
+      - Краткая справка: ta-pioneers/hutson-jack.md
+      - Trix: TALib/MomentumIndicators/Trix-TALib.md
+
     - Patrick G. Mulloy:
       - Краткая справка: ta-pioneers/mulloy-patrick.md
       - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
@@ -99,6 +103,7 @@ nav:
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
+          - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
 
         - Trailings:
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
@@ -109,20 +114,23 @@ nav:
       - MomentumIndicators:
         - Mom: TALib/MomentumIndicators/Mom-TALib.md
         
+        - Ppo: TALib/Ppo-TALib.md
+
         - RateOfChange:
           - Roc: TALib/MomentumIndicators/Roc-TALib.md
           - RocP: TALib/MomentumIndicators/RocP-TALib.md
           - RocR: TALib/MomentumIndicators/RocR-TALib.md
           - RocR100: TALib/MomentumIndicators/RocR100-TALib.md
-        
+          - Trix: TALib/MomentumIndicators/Trix-TALib.md
+
         - StochRsi: TALib/MomentumIndicators/StochRsi-TALib.md
-        - Williams %R: TALib/WillR-TALib.md
-        - MinusDI: TALib/MomentumIndicators/MinusDI-TALib.md
-        - Ppo: TALib/Ppo-TALib.md
+        - WillR: TALib/WillR-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
-        - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
+        
         - PlusDI: TALib/MomentumIndicators/PlusDI-TALib.md
+        - MinusDI: TALib/MomentumIndicators/MinusDI-TALib.md
         - PlusDM: TALib/MomentumIndicators/PlusDM-TALib.md
+        - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md
       
       - MathOperators:
         - MinMaxIndex: TALib/MinMaxIndex-TALib.md
