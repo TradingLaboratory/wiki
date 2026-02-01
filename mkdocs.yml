@@ -53,6 +53,7 @@ nav:
   
   # Раздел "Пионеры теханализа"
   - Пионеры теханализа:
+
     - Обзор авторов: ta-pioneers/key-figures.md
     
     - Welles Wilder: 
@@ -64,6 +65,10 @@ nav:
     
     - Charles LeBeau: 
       - Краткая справка: ta-pioneers/lebeau-charles.md
+    
+    - Tim Tillson:
+      - Краткая справка: ta-pioneers/tillson-tim.md
+      - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
   
   # Раздел "Индикаторы" с подразделами
   - Индикаторы:
@@ -81,8 +86,16 @@ nav:
       - Обзор: TALib/TALib-Indicators.md
       
       - OverlapStudies:
-        - WMA: TALib/Wma-TALib.md
-        - SarExt: TALib/SarExt-TALib.md
+        - Averages:
+          - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
+          - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
+
+        - Trailings:
+          - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
+
+        # - Bands&Channels:
+        
+        
         - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
       
       - MomentumIndicators:
@@ -94,7 +107,7 @@ nav:
           - RocR100: TALib/MomentumIndicators/RocR100-TALib.md
         - StochRsi: TALib/MomentumIndicators/StochRsi-TALib.md
         - Williams %R: TALib/WillR-TALib.md
-        - MinusDI: TALib/MinusDI-TALib.md
+        - MinusDI: TALib/MomentumIndicators/MinusDI-TALib.md
         - Ppo: TALib/Ppo-TALib.md
         - UltOsc: TALib/UltOsc-TALib.md
         - MinusDM: TALib/MomentumIndicators/MinusDM-TALib.md

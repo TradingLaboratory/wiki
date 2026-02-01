@@ -67,7 +67,7 @@
 | **RSI**           | Relative Strength Index<br>Индекс относительной силы                             |                                                            |       |                 |            |
 | **ADX**           | Average Directional Index<br>Индекс среднего направленного движения              |                                                            |       |                 |            |
 | **+DI**           | Positive Directional Indicator<br>Положительный индикатор направленного движения |                                                            |       |                 |            |
-| **-DI**           | Negative Directional Indicator<br>Отрицательный индикатор направленного движения | [MinusDI-TALib](TALib/MinusDI-TALib.md)                    |       |                 |            |
+| **-DI**           | Negative Directional Indicator<br>Отрицательный индикатор направленного движения | [MinusDI-TALib](MinusDI-TALib.md)                    |       |                 |            |
 | **-DM**           | Negative Directional Movement<br>Отрицательное направленное движение             | [MinusDM-TALib](TALib/MomentumIndicators/MinusDM-TALib.md) |       |                 |            |
 | **ATR**           | Average True Range<br>Средний истинный диапазон                                  |                                                            |       |                 |            |
 | **Parabolic SAR** | Parabolic SAR<br>Параболическая система «стоп и разворот»                        |                                                            |       |                 |            |
