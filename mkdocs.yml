@@ -63,7 +63,13 @@ nav:
       - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
       - MinusDM: TALib/MomentumIndicators/TrendDirection/MinusDM-TALib.md
       - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
+      - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
     
+    - Gerald Appel: 
+      - Краткая справка: ta-pioneers/appel-gerald.md
+      - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
+      - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
+
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
       - Trix: TALib/MomentumIndicators/Trix-TALib.md
@@ -120,12 +126,15 @@ nav:
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
 
         - UnboundedMomentum:
-          - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
+          - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
+          - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
+          
           - Roc: TALib/MomentumIndicators/UnboundedMomentum/Roc-TALib.md
           - RocP: TALib/MomentumIndicators/UnboundedMomentum/RocP-TALib.md
           - RocR: TALib/MomentumIndicators/UnboundedMomentum/RocR-TALib.md
           - RocR100: TALib/MomentumIndicators/UnboundedMomentum/RocR100-TALib.md
+          
           - Trix: TALib/MomentumIndicators/UnboundedMomentum/Trix-TALib.md
         
         
@@ -137,20 +146,11 @@ nav:
         
         - TrendStrength:
           - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
+          - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
 
 
-
-
-
-
-        
-        
-
-        
-
-      
       - MathOperators:
-        - MinMaxIndex: TALib/MinMaxIndex-TALib.md
+        - MinMaxIndex: TALib/MathOperators/MinMaxIndex-TALib.md
       
       - MathTransform:
         - Sqrt: TALib/MathTransform/Sqrt-TALib.md
