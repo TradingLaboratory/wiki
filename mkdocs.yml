@@ -179,7 +179,7 @@ nav:
         - Oscillators:
           - Rsi: TALib/MomentumIndicators/Oscillators/Rsi-TALib.md
           - Stoch: TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
-          - Stoch: TALib/MomentumIndicators/Oscillators/StochF-TALib.md
+          - StochF: TALib/MomentumIndicators/Oscillators/StochF-TALib.md
 
           - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
