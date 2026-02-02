@@ -147,13 +147,13 @@ nav:
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
 
           
-          MacdFamily:
+          - MacdFamily:
             - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
 
           - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
           - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
           
-          RocFamily:
+          - RocFamily:
             - Roc: TALib/MomentumIndicators/UnboundedMomentum/Roc-TALib.md
             - RocP: TALib/MomentumIndicators/UnboundedMomentum/RocP-TALib.md
             - RocR: TALib/MomentumIndicators/UnboundedMomentum/RocR-TALib.md
