@@ -87,6 +87,12 @@ nav:
       - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
       - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
 
+    - Richard Donchian: 
+      - Краткая справка: ta-pioneers/donchian-richard.md
+      - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md 
+      - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
+      - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
+
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
       - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
@@ -131,7 +137,10 @@ nav:
       - Обзор: TALib/TALib-Indicators.md
       
       - OverlapStudies:
+
         - Averages:
+          - Sma: TALib/OverlapStudies/Averages/Sma-TALib.md
+          - Ema: TALib/OverlapStudies/Averages/Ema-TALib.md
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
@@ -139,6 +148,12 @@ nav:
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
           - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
 
+        - PriceLevels:
+          - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
+          - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
+          - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
+          - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
+        
         - Trailings:
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
 
