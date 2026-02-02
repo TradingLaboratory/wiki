@@ -166,9 +166,9 @@ nav:
           - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
           - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
         
-        - BandsChannels:
-          - MinMax: TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
-          - Accbands: TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
+        #- BandsChannels:
+        #  - MinMax: TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
+        #  - Accbands: TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
 
         - Trailings:
           - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
