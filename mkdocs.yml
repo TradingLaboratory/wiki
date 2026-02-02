@@ -96,6 +96,10 @@ nav:
       - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
       - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
 
+    - John F. Ehlers: 
+      - Краткая справка: ta-pioneers/ehlers-john.md
+      - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
+
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
       - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
@@ -106,7 +110,7 @@ nav:
 
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
-      - Trix: TALib/MomentumIndicators/Trix-TALib.md
+      - Trix: TALib/MomentumIndicators/UnboundedMomentum/Trix-TALib.md
 
     - Patrick G. Mulloy:
       - Краткая справка: ta-pioneers/mulloy-patrick.md
@@ -119,6 +123,10 @@ nav:
     - Tim Tillson:
       - Краткая справка: ta-pioneers/tillson-tim.md
       - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
+
+    - Price Headley:
+      - Краткая справка: ta-pioneers/headley-price.md
+      - Accbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
 
     - Igor Levshin:
       - Краткая справка: ta-pioneers/levshin-igor.md
@@ -150,6 +158,7 @@ nav:
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
           - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
+          - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
 
         - PriceLevels:
           - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
@@ -157,11 +166,15 @@ nav:
           - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
           - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
         
+        - BandsChannels:
+          - MinMax (Min, Max): TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
+          - Accbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
+
         - Trailings:
           - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
 
-        # - Bands&Channels:
+        
       
       
       - MomentumIndicators:
