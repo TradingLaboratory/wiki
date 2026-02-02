@@ -58,6 +58,7 @@ nav:
     
     - Welles Wilder: 
       - Краткая справка: ta-pioneers/wilder-welles.md
+      - Rsi: TALib/MomentumIndicators/Oscillators/Rsi-TALib.md
       - PlusDI: TALib/MomentumIndicators/TrendDirection/PlusDI-TALib.md
       - MinusDI: TALib/MomentumIndicators/TrendDirection/MinusDI-TALib.md
       - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
@@ -69,6 +70,8 @@ nav:
     - Gerald Appel: 
       - Краткая справка: ta-pioneers/appel-gerald.md
       - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+      - MacdExt: TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
+      - MacdFix: TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
       - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
       - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
    
@@ -83,6 +86,10 @@ nav:
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
       - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
+
+    - Gene Quong: 
+      - Краткая справка: ta-pioneers/quong-gene.md
+      - Mfi: TALib/MomentumIndicators/Oscillators/Mfi-TALib.md
 
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
@@ -137,11 +144,13 @@ nav:
       - MomentumIndicators:
         
         - Oscillators:
+          - Rsi: TALib/MomentumIndicators/Oscillators/Rsi-TALib.md
           - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
           - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
           - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
+          - Mfi: TALib/MomentumIndicators/Oscillators/Mfi-TALib.md
 
         - UnboundedMomentum:
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
@@ -149,6 +158,8 @@ nav:
           
           - MacdFamily:
             - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+            - MacdExt: TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
+            - MacdFix: TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
 
           - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
           - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
