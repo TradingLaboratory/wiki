@@ -1,4 +1,4 @@
-# StochRsi — Стохастический индекс относительной силы (Stochastic RSI)
+# StochRsi (FaskK, FastD) — Стохастический индекс относительной силы (Stochastic RSI)
 
 **Категория:** `MomentumIndicators` • **Тип:** Осциллятор импульса на основе RSI
 

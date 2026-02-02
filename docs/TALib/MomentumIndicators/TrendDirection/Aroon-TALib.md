@@ -1,4 +1,4 @@
-# Aroon (AroonUp & AroonDn) — Индикатор Арун 
+# Aroon (AroonUp, AroonDn) — Индикатор Арун 
 
 **Категория:** `MomentumIndicators` • **Тип:** Осциллятор на основе времени до экстремумов
 

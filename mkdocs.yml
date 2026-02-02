@@ -69,17 +69,16 @@ nav:
     
     - Gerald Appel: 
       - Краткая справка: ta-pioneers/appel-gerald.md
-      - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
-      - MacdExt: TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
-      - MacdFix: TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
+      - Macd (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+      - MacdExt (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
+      - MacdFix (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
       - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
       - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
    
 
     - Tushar Chande: 
       - Краткая справка: ta-pioneers/chande-tushar.md
-      - AroonUp: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
-      - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+      - Aroon (Up, Down): TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
       - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
       - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
 
@@ -153,7 +152,7 @@ nav:
           - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
           - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
 
-          - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
+          - StochRsi (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
 
@@ -166,9 +165,9 @@ nav:
 
           
           - MacdFamily:
-            - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
-            - MacdExt: TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
-            - MacdFix: TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
+            - Macd (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+            - MacdExt (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
+            - MacdFix (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
 
           - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
           - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
@@ -187,8 +186,7 @@ nav:
           - MinusDI: TALib/MomentumIndicators/TrendDirection/MinusDI-TALib.md
           - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
           - MinusDM: TALib/MomentumIndicators/TrendDirection/MinusDM-TALib.md
-          - AroonUp: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
-          - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+          - Aroon (Up, Down): TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
         
         
         - TrendStrength:
