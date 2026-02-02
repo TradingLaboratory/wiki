@@ -83,6 +83,11 @@ nav:
       - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
       - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
 
+    - George Lane: 
+      - Краткая справка: ta-pioneers/lane-george.md
+      - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
+      - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
+
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
       - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
@@ -145,12 +150,16 @@ nav:
         
         - Oscillators:
           - Rsi: TALib/MomentumIndicators/Oscillators/Rsi-TALib.md
+          - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
+          - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
+
           - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
-          - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
+
           - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
           - Mfi: TALib/MomentumIndicators/Oscillators/Mfi-TALib.md
+          - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
 
         - UnboundedMomentum:
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
