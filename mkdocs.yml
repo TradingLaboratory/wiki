@@ -62,19 +62,23 @@ nav:
       - MinusDI: TALib/MomentumIndicators/TrendDirection/MinusDI-TALib.md
       - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
       - MinusDM: TALib/MomentumIndicators/TrendDirection/MinusDM-TALib.md
+      - Dx: TALib/MomentumIndicators/TrendStrength/Dx-TALib.md
       - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
       - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
     
     - Gerald Appel: 
       - Краткая справка: ta-pioneers/appel-gerald.md
+      - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
       - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
       - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
+   
 
     - Tushar Chande: 
       - Краткая справка: ta-pioneers/chande-tushar.md
       - AroonUp: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
       - AroonDn: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
       - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
+      - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
 
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
@@ -137,16 +141,23 @@ nav:
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
           - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
+          - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
 
         - UnboundedMomentum:
           - Mom: TALib/MomentumIndicators/UnboundedMomentum/Mom-TALib.md
+
+          
+          MacdFamily:
+            - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+
           - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
           - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
           
-          - Roc: TALib/MomentumIndicators/UnboundedMomentum/Roc-TALib.md
-          - RocP: TALib/MomentumIndicators/UnboundedMomentum/RocP-TALib.md
-          - RocR: TALib/MomentumIndicators/UnboundedMomentum/RocR-TALib.md
-          - RocR100: TALib/MomentumIndicators/UnboundedMomentum/RocR100-TALib.md
+          RocFamily:
+            - Roc: TALib/MomentumIndicators/UnboundedMomentum/Roc-TALib.md
+            - RocP: TALib/MomentumIndicators/UnboundedMomentum/RocP-TALib.md
+            - RocR: TALib/MomentumIndicators/UnboundedMomentum/RocR-TALib.md
+            - RocR100: TALib/MomentumIndicators/UnboundedMomentum/RocR100-TALib.md
           
           - Trix: TALib/MomentumIndicators/UnboundedMomentum/Trix-TALib.md
         
@@ -161,6 +172,7 @@ nav:
         
         
         - TrendStrength:
+          - Dx: TALib/MomentumIndicators/TrendStrength/Dx-TALib.md
           - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
           - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
           - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md
