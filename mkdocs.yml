@@ -66,6 +66,9 @@ nav:
       - Dx: TALib/MomentumIndicators/TrendStrength/Dx-TALib.md
       - Adx: TALib/MomentumIndicators/TrendStrength/Adx-TALib.md
       - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
+      - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
+      - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
+      
     
     - Gerald Appel: 
       - Краткая справка: ta-pioneers/appel-gerald.md
@@ -155,6 +158,7 @@ nav:
           - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
         
         - Trailings:
+          - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
 
         # - Bands&Channels:
