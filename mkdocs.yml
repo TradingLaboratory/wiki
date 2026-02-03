@@ -6,7 +6,7 @@
 site_name: TrendTeam Wiki
 
 # URL сайта (для правильных ссылок при публикации)
-site_url: https://tradinglaboratory.github.io/wiki/    
+site_url: https://tradinglaboratory.github.io/wiki/      
 
 # ============================================================
 # ТЕМА ОФОРМЛЕНИЯ
@@ -72,28 +72,28 @@ nav:
     
     - Gerald Appel: 
       - Краткая справка: ta-pioneers/appel-gerald.md
-      - Macd: TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
-      - MacdExt: TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
-      - MacdFix: TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
+      - Macd (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/Macd-TALib.md
+      - MacdExt (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdExt-TALib.md
+      - MacdFix (Macd, MacdSygnal, MacdHist): TALib/MomentumIndicators/UnboundedMomentum/MacdFix-TALib.md
       - Apo: TALib/MomentumIndicators/UnboundedMomentum/Apo-TALib.md
       - Ppo: TALib/MomentumIndicators/UnboundedMomentum/Ppo-TALib.md
    
 
     - Tushar Chande: 
       - Краткая справка: ta-pioneers/chande-tushar.md
-      - Aroon: TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+      - Aroon (Up, Down): TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
       - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md      
       - Cmo: TALib/MomentumIndicators/Oscillators/Cmo-TALib.md
 
     - George Lane: 
       - Краткая справка: ta-pioneers/lane-george.md
-      - Stoch: TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
-      - StochF: TALib/MomentumIndicators/Oscillators/StochF-TALib.md
+      - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
+      - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
 
     - Richard Donchian: 
       - Краткая справка: ta-pioneers/donchian-richard.md
-      - Max: TALib/OverlapStudies/PriceLevels/Max-TALib.md 
-      - Min: TALib/OverlapStudies/PriceLevels/Min-TALib.md 
+      - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md 
+      - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
       - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
 
     - John F. Ehlers: 
@@ -126,7 +126,7 @@ nav:
 
     - Price Headley:
       - Краткая справка: ta-pioneers/headley-price.md
-      - Accbands: TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
+      - Accbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
 
     - Igor Levshin:
       - Краткая справка: ta-pioneers/levshin-igor.md
@@ -153,7 +153,7 @@ nav:
           - Sma: TALib/OverlapStudies/Averages/Sma-TALib.md
           - Ema: TALib/OverlapStudies/Averages/Ema-TALib.md
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
-          - T3: TALib/OverlapStudies/Averages/T3-TALib.md
+          - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
@@ -161,27 +161,30 @@ nav:
           - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
 
         - PriceLevels:
-          - Max: TALib/OverlapStudies/PriceLevels/Max-TALib.md
-          - Min: TALib/OverlapStudies/PriceLevels/Min-TALib.md 
+          - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
+          - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
           - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
           - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
         
         - BandsChannels:
-          - MinMax: TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
-          - Accbands: TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
+          - MinMax (Min, Max): TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
+          - Accbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Accbands-TALib.md 
 
         - Trailings:
           - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
 
+        
+      
+      
       - MomentumIndicators:
         
         - Oscillators:
           - Rsi: TALib/MomentumIndicators/Oscillators/Rsi-TALib.md
-          - Stoch: TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
-          - StochF: TALib/MomentumIndicators/Oscillators/StochF-TALib.md
+          - Stoch (SlowK, SolwD): TALib/MomentumIndicators/Oscillators/Stoch-TALib.md
+          - StochF (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochF-TALib.md
 
-          - StochRsi: TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
+          - StochRsi (FastK, FastD): TALib/MomentumIndicators/Oscillators/StochRsi-TALib.md
           - WillR: TALib/MomentumIndicators/Oscillators/WillR-TALib.md
           - UltOsc: TALib/MomentumIndicators/Oscillators/UltOsc-TALib.md
 
