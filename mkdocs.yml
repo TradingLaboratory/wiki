@@ -131,6 +131,9 @@ nav:
     - Igor Levshin:
       - Краткая справка: ta-pioneers/levshin-igor.md
       - Bop: TALib/MomentumIndicators/Oscillators/Bop-TALib.md
+    
+    - Mario Fortier:
+      - Краткая справка: ta-pioneers/fortier-mario.md     
   
   # Раздел "Индикаторы" с подразделами
   - Индикаторы:
@@ -173,9 +176,6 @@ nav:
         - Trailings:
           - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
-
-        
-      
       
       - MomentumIndicators:
         
@@ -229,7 +229,8 @@ nav:
           - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
 
       - MathOperators:
-        - MinMaxIndex: TALib/MathOperators/MinMaxIndex-TALib.md
+        - MinMaxIndex (MinIdx, MaxIdx): TALib/MathOperators/MinMaxIndex-TALib.md
+        - Add: TALib/MathOperators/Add-TALib.md
       
       - MathTransform:
         - Sqrt: TALib/MathTransform/Sqrt-TALib.md
