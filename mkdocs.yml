@@ -229,8 +229,16 @@ nav:
           - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
 
       - MathOperators:
+        - MinIndex: TALib/MathOperators/MinIndex-TALib.md
+        - MaxIndex: TALib/MathOperators/MaxIndex-TALib.md
         - MinMaxIndex (MinIdx, MaxIdx): TALib/MathOperators/MinMaxIndex-TALib.md
+
+        - Sum: TALib/MathOperators/Sum-TALib.md #накопительное суммирование
+
         - Add: TALib/MathOperators/Add-TALib.md
+        - Sub: TALib/MathOperators/Sub-TALib.md
+        - Mult: TALib/MathOperators/Mult-TALib.md
+        - Div: TALib/MathOperators/Div-TALib.md
       
       - MathTransform:
         - Sqrt: TALib/MathTransform/Sqrt-TALib.md
