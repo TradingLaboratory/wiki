@@ -63,4 +63,4 @@ double CalculateBOP(double open, double high, double low, double close)
 // 7. Комбинировать с объёмом для подтверждения силы сигнала
 ```
 
-→ [К списку ключевых фигур](key-figures)
+→ [К списку ключевых фигур](key-figures.md)

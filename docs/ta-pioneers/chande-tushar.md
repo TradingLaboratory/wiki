@@ -83,6 +83,6 @@ vidya = vidya_prev + alpha * cmo_val * (close - vidya_prev)
 # Важно: для всех индикаторов первый валидный бар = период (lookback)
 ```
 
-→ [К списку ключевых фигур](key-figures)
+→ [К списку ключевых фигур](key-figures.md)
 
 chande-tushar

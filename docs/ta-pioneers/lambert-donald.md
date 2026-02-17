@@ -70,6 +70,4 @@
 5. Критично: использовать Mean Deviation, а не Standard Deviation в формуле
 ```
 
-→ [К списку ключевых фигур](key-figures)
-
-lambert-donald
+→ [К списку ключевых фигур](key-figures.md)

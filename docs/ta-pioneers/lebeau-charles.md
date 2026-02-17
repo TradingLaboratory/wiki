@@ -82,4 +82,4 @@ chandelier_short = lowest_low + atr_value * multiplier
 # 5. Для скальпинга сократить период до 10–14
 ```
 
-→ [[ta-pioneers/key-figures|К списку ключевых фигур]]
+→ [К списку ключевых фигур](ta-pioneers/key-figures.md)

@@ -81,4 +81,4 @@ def T3(price, period, v):
 # 5. Избегать использования при v > 0.9 — резкое увеличение шума
 ```
 
-→ [[ta-pioneers/key-figures|К списку ключевых фигур]]
+→ [К списку ключевых фигур](ta-pioneers/key-figures.md)

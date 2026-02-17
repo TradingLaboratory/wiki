@@ -77,4 +77,4 @@
    - Handle division by zero in ER calculation (if sum of changes == 0).
 ```
 
-→ [К списку ключевых фигур](key-figures)
+→ [К списку ключевых фигур](key-figures.md)

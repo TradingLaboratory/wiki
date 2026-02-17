@@ -66,6 +66,6 @@ TA_RetCode ret = TA_RSI(0, closeSize-1, closeArray, 14,
 // 5. Помните: библиотека даёт данные, а не стратегию — логику входов пишете сами
 ```
 
-→ [К списку ключевых фигур](key-figures)
+→ [К списку ключевых фигур](key-figures.md)
 
 fortier-mario
