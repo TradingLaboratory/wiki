@@ -255,14 +255,30 @@ nav:
         - HtTrendMode: TALib/CycleIndicators/HtTrendMode-TALib.md
 
 
-
-
       - MathTransform:
-        - Sqrt: TALib/MathTransform/Sqrt-TALib.md
-        - Tan: TALib/MathTransform/Tan-TALib.md
-        - Tanh: TALib/MathTransform/Tanh-TALib.md
-        - Sinh: TALib/MathTransform/Sinh-TALib.md
-      
+        - Algebraic:
+          - Sqrt: TALib/MathTransform/Algebraic/Sqrt-TALib.md
+          - Ceil: TALib/MathTransform/Algebraic/Ceil-TALib.md
+          - Floor: TALib/MathTransform/Algebraic/Floor-TALib.md
+
+        - Exponential:
+          - Exp: TALib/MathTransform/Exponential/Exp-TALib.md
+          - Ln: TALib/MathTransform/Exponential/Ln-TALib.md
+          - Log10: TALib/MathTransform/Exponential/Log10-TALib.md
+
+        - Trigonometric:   
+          - Sin: TALib/MathTransform/Trigonometric/Sin-TALib.md
+          - Cos: TALib/MathTransform/Trigonometric/Cos-TALib.md
+          - Tan: TALib/MathTransform/Trigonometric/Tan-TALib.md
+          - Asin: TALib/MathTransform/Trigonometric/Asin-TALib.md
+          - Acos: TALib/MathTransform/Trigonometric/Acos-TALib.md
+          - Atan: TALib/MathTransform/Trigonometric/Atan-TALib.md
+
+        - Hyperbolic:
+          - Tanh: TALib/MathTransform/Hyperbolic/Tanh-TALib.md
+          - Sinh: TALib/MathTransform/Hyperbolic/Sinh-TALib.md
+          - Cosh: TALib/MathTransform/Hyperbolic/Cosh-TALib.md
+
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
       
