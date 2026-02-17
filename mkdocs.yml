@@ -68,6 +68,9 @@ nav:
       - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
       - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
       - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
+      - TRange: TALib/VolatilityIndicators/TRange-TALib.md
+      - Atr: TALib/VolatilityIndicators/Atr-TALib.md
+      - Natr: TALib/VolatilityIndicators/Natr-TALib.md
       
     
     - Gerald Appel: 
@@ -110,6 +113,7 @@ nav:
 
     - John Bollinger: 
       - Краткая справка: ta-pioneers/bollinger-john.md
+      - StdDev: TALib/VolatilityIndicators/StdDev-TALib.md
       - Bbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Bbands-TALib.md 
 
     - Perry Kaufman: 
@@ -318,7 +322,11 @@ nav:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
       
       - VolatilityIndicators:
+        - TRange: TALib/VolatilityIndicators/TRange-TALib.md
+        - Atr: TALib/VolatilityIndicators/Atr-TALib.md
         - Natr: TALib/VolatilityIndicators/Natr-TALib.md
+        - AvgDev: TALib/VolatilityIndicators/AvgDev-TALib.md
+        - StdDev: TALib/VolatilityIndicators/StdDev-TALib.md
         - Var: TALib/StatisticFunctions/Var-TALib.md
 
       - CycleIndicators:
