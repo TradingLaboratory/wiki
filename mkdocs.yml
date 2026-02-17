@@ -122,6 +122,15 @@ nav:
       - KaufmanER: TALib/MomentumIndicators/TrendStrength/KaufmanER-TALib.md 
 
 
+    - Marc Chaikin: 
+      - Краткая справка: ta-pioneers/chaikin-marc.md
+      - Ad: TALib/VolumeIndicators/Ad-TALib.md
+      - AdOsc: TALib/VolumeIndicators/AdOsc-TALib.md
+
+    - Joseph Granville: 
+      - Краткая справка: ta-pioneers/granville-joseph.md
+      - Obv: TALib/VolumeIndicators/Obv-TALib.md
+
 
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
@@ -320,6 +329,8 @@ nav:
       
       - VolumeIndicators:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
+        - Ad: TALib/VolumeIndicators/Ad-TALib.md
+        - AdOsc: TALib/VolumeIndicators/AdOsc-TALib.md
       
       - VolatilityIndicators:
         - TRange: TALib/VolatilityIndicators/TRange-TALib.md

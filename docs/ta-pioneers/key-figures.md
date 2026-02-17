@@ -1,49 +1,499 @@
 # Key Figures in Technical Analysis
+## Ключевые фигуры технического анализа
 
-Сводный справочник людей, оказавших значительное влияние на развитие технического анализа: создатели индикаторов, авторы торговых систем, разработчики концепций и фундаментальных методик.
+---
 
 ## Кто здесь представлен
 
-| Рейтинг | Имя (англ.)              | Имя (рус.)            | Годы            | Индикаторы / системы                                                    | Ключевые книги                                                                                                                    | Ключевые статьи                                                                                                                   | Страница                               |
-| ------- | ------------------------ | --------------------- | --------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| **1**   | **J. Welles Wilder Jr.** | Дж. Уэллс Уайлдер     | 1935–2021       | RSI, ADX, ATR, Parabolic SAR                                            | *New Concepts in Technical Trading Systems* (1978)                                                                                | —                                                                                                                                 | → [wilder-welles](wilder-welles)       |
-| **2**   | **Gerald Appel**         | Джеральд Аппель       | **1933–2023**   | MACD, MACD-Histogram, PPO (Percentage Price Oscillator)                 | *How to Make Money in the Futures Market… and Lots of It!* (1970s), *Technical Analysis: Power Tools for Active Investors* (2005) | Статьи в *Technical Analysis of Stocks & Commodities* (1980–1990-е)                                                               | → [appel-gerald](appel-gerald)         |
-| **3**   | **Tushar Chande**        | Тушар Чанде           | 1958–           | AROON, CMO, VIDYA, QSTICK, RAVI, CFO, TrendScore                        | *The New Technical Trader* (1994, с С. Кроллом), *Beyond Technical Analysis* (2001)                                               | «The Aroon Indicator» (TASC, Oct 1995), «Adapting Moving Averages To Market Volatility» (TASC, Mar 1992)                          | → [chande-tushar](chande-tushar)       |
-| **4**   | **George Lane**          | Джордж Лейн           | 1921–2011       | Stochastic Oscillator (Fast/Slow)                                       | *George Lane's Stochastic Oscillator* (Traders Press, 1990)                                                                       | *The Stochastic Oscillator* (TASC, 1984)                                                                                          | → [lane-george](lane-george)           |
-| **5**   | **Richard Donchian**     | Ричард Дончиан        | **1905–1967**   | Donchian Channels (Upper/Lower/Middle), 52-Week High/Low                | *Donchian's 20 Guides to Trading Commodities* (1934), *Commodity Trend Timing* (бюллетень, 1960–1979)                             | *Trend Following Methods in Commodity Price Analysis*                                                                             | → [donchian-richard](donchian-richard) |
-| **6**   | **John F. Ehlers**       | Джон Ф. Элерс         | 1933–           | MAMA, FAMA, Cyber Cycle, Fisher Transform, IFT, Instantaneous Trendline | *Rocket Science for Traders* (2001), *Cybernetic Analysis for Stocks and Futures* (2004), *Cycle Analytics for Traders* (2014)    | *MESA and Trading Market Cycles* (1992)                                                                                           | → [ehlers-john](ehlers-john)           |
-| **7**   | **John Bollinger**       | **Джон Боллинджер**   | **1950–**       | **Bollinger Bands, %B, BandWidth**                                      | ***Bollinger on Bollinger Bands* (2002)**                                                                                         | **«The Bollinger Band Squeeze»**, *Volatility Analysis* (различные публикации)                                                    | → [bollinger-john](bollinger-john)     |
-| **8**   | **Perry Kaufman**        | **Перри Кауфман**     | **1943–**       | **KAMA, Efficiency Ratio (ER)**                                         | ***Trading Systems and Methods*** (1998, 2005, 2013), *Alpha Trading* (2009), *Building Trading Systems* (2013)                   | —                                                                                                                                 | → [kaufman-perry](kaufman-perry)       |
-| **9**   | Larry Williams           | Ларри Уильямс         | 1942–           | Williams %R, Ultimate Oscillator, Williams VIX Fix                      | *How I Made One Million Dollars* (1973), *Long-Term Secrets to Short-Term Trading* (2000)                                         | —                                                                                                                                 | → [williams-larry](williams-larry)     |
-| **10**  | Alexander Elder          | Александр Элдер       | 1948–           | Force Index, Elder-Ray, Triple Screen                                   | *Trading for a Living* (1993), *Come Into My Trading Room* (2002)                                                                 | —                                                                                                                                 | → [elder-alexander](elder-alexander)   |
-| **11**  | **Donald R. Lambert**    | Дональд Р. Ламберт    | —               | CCI (Commodity Channel Index)                                           | —                                                                                                                                 | *Commodity Channel Index: Tool for Trading Cyclic Trends*, Commodities Magazine, October 1980                                     | → [lambert-donald](lambert-donald)     |
-| **12**  | **Gene Quong**           | Джин Куонг            | 1940–           | MFI (Money Flow Index, совм. с А. Судаком)                              | —                                                                                                                                 | *Volume-Weighted RSI: Money Flow* (с А. Судаком), TASC, Vol. 7 No. 3, 1989                                                        | → [quong-gene](quong-gene)             |
-| **13**  | **Gilbert L. Raff**      | **Гилберт Л. Рафф**   | **1930s–2010s** | **Raff Regression Channel, Linear Regression Channel**                  | ***Trading the Regression Channel: Defining and Predicting Stock Price Trends* (1996)**                                           | —                                                                                                                                 | → [raff-gilbert](raff-gilbert)         |
-| **14**  | **Jack K. Hutson**       | Джек К. Хатсон        | —               | TRIX (Triple Exponential Smoothing Oscillator)                          | —                                                                                                                                 | *Good TRIX* (Stocks & Commodities, Vol. 1 No. 5, July/August 1983); издатель журнала *Technical Analysis of Stocks & Commodities* | → [hutson-jack](hutson-jack)           |
-| **15**  | Ralph Nelson Elliott     | Ральф Нельсон Эллиотт | 1871–1948       | Elliott Wave Principle                                                  | *Nature's Law* (1946)                                                                                                             | —                                                                                                                                 | → [elliott-ralph](elliott-ralph)       |
-| **16**  | Richard D. Wyckoff       | Ричард Д. Вайкофф     | 1873–1934       | Wyckoff Method, Composite Man                                           | *Studies in Tape Reading* (1910), *How I Trade and Invest in Stocks* (1924)                                                       | —                                                                                                                                 | → [wyckoff-richard](wyckoff-richard)   |
-| **17**  | W. D. Gann               | Уильям Делберт Ганн   | 1878–1955       | Gann Angles, Square of Nine                                             | *The Tunnel Thru the Air* (1927), *How to Make Profits in Commodities* (1942)                                                     | —                                                                                                                                 | → [gann-w-d](gann-w-d)                 |
-| **18**  | **Patrick G. Mulloy**    | Патрик Г. Маллой      | —               | DEMA, TEMA                                                              | —                                                                                                                                 | *Smoothing Data with Faster Moving Averages*, *Smoothing Data with Less Lag* (1994)                                               | → [mulloy-patrick](mulloy-patrick)     |
-| **19**  | **Charles LeBeau**       | Чарльз Лебо           | 1940–2023       | Chandelier Exit, методологии выхода, бэктестинг                         | *Technical Traders Guide to Computer Analysis of the Futures Markets* (с Д. Лукасом, 1992)                                        | —                                                                                                                                 | → [lebeau-charles](lebeau-charles)     |
-| **20**  | **Tim Tillson**          | Тим Тилсон            | —               | T3 Moving Average, Generalized DEMA                                     | —                                                                                                                                 | *Smoothing Techniques for More Accurate Signals*, *Stocks & Commodities* (1998)                                                   | → [tillson-tim](tillson-tim)           |
-| **21**  | **Price Headley**        | Прайс Хедли           | —               | Acceleration Bands (ACCBANDS)                                           | *Big Trends in Trading* (2010), *The Trend Following Bible*                                                                       | —                                                                                                                                 | → [headley-price](headley-price)       |
-| **22**  | **Igor Levshin**         | Игорь Левшин          | 1960–           | BOP (Balance of Power)                                                  | —                                                                                                                                 | «Balance of Power», *Technical Analysis of Stocks & Commodities*, August 2001                                                     | → [levshin-igor](levshin-igor)         |
-| **23**  | Jack Schwager            | Джек Швагер           | 1948–           | —                                                                       | *Market Wizards* (1989), *The New Market Wizards* (1992), *Stock Market Wizards* (2001)                                           | —                                                                                                                                 | → [schwager-jack](schwager-jack)       |
-| **24**  | **Mario Fortier**        | Марио Фортье          | 1970s–          | **TA-Lib** (реализация 150+ индикаторов Уайлдера, Аппеля, Элдера и др.) | —                                                                                                                                 | —                                                                                                                                 | → [fortier-mario](fortier-mario)       |
+Это сводный справочник людей, оказавших значительное влияние на развитие технического анализа: создатели индикаторов, авторы торговых систем, разработчики концепций и фундаментальных методик.
 
-> 💡 **Примечания к таблице:**
-> - **Индикаторы:** перечислены общепринятые названия, используемые в торговых терминалах (TradingView, MetaTrader, Thinkorswim и др.).
-> - **«—»** означает отсутствие собственных индикаторов (Швагер — систематизатор опыта других трейдеров) или отсутствие книг/статей в соответствующем столбце.
-> - Для концепций без «индикаторной» реализации (Эллиотт, Вайкофф, Ганн) указано название метода/подхода.
-> - **Рейтинги** присвоены по совокупному вкладу: количество фундаментальных индикаторов × влияние книг × практическое применение в современной торговле × историческая значимость.
-> - **Особый статус Марио Фортье:** не автор индикаторов, а создатель эталонной библиотеки **TA-Lib** — инженерной систематизации алгоритмов других исследователей. Его вклад измеряется масштабом влияния на разработку торговых систем, а не созданием новых концепций.
-> - **Особый статус Перри Кауфмана:** его книга *«Trading Systems and Methods»* считается энциклопедией алгоритмической торговли. Вклад измеряется не только индикаторами (KAMA, ER), но и систематизацией знаний о построении, тестировании и оценке торговых систем.
-> - **Особый статус Гилберта Раффа:** применил междисциплинарный подход (кардиология + физика → финансы), заменив субъективные каналы объективным статистическим методом. Его книга (1996) — первое практическое руководство по регрессионным каналам.
-> - **Жирным цветом** отмечены авторы, информация о которых уже занесена в подробные страницы (включая Раффа, Кауфмана, Боллинджера, Уайлдера, Аппеля и др.)
+В рейтинг вошли исследователи, чьи работы стали основой современного технического анализа — от классических осцилляторов до адаптивных алгоритмов и систематических подходов к торговле.
 
-## Как использовать
+---
 
-- **Поиск по индикатору:** Ctrl+F по названию (например, «MACD») → найдёте создателя.
-- **Поиск по книге:** Ctrl+F по названию книги → найдёте автора.
-- **Поиск по статье:** Ctrl+F по названию статьи → найдёте автора.
-- **Быстрый переход:** кликните на стрелку → рядом с именем для открытия подробной страницы.
+## Как оценивался рейтинг
+
+Рейтинги присвоены по совокупному вкладу, учитывающему:
+
+| Критерий | Вес | Пояснение |
+|----------|-----|-----------|
+| **Фундаментальность индикаторов** | 35% | Создал ли автор индикаторы, ставшие стандартом (например, RSI, MACD, Bollinger Bands) |
+| **Влияние книг** | 25% | Насколько значимы публикации автора для сообщества трейдеров |
+| **Практическое применение** | 20% | Используются ли индикаторы/методы в современной торговле |
+| **Историческая значимость** | 15% | Роль в развитии технического анализа как дисциплины |
+| **Инновационность** | 5% | Насколько новаторским был подход автора |
+
+> 💡 **Особые случаи:**
+> - **Марио Фортье** оценивался по иному принципу — его вклад инженерный (библиотека реализации), а не концептуальный
+> - **Джек Швагер** включён как систематизатор опыта других трейдеров, а не как автор индикаторов
+
+---
+
+## Рейтинги
+
+---
+
+### 🥇 **1. J. Welles Wilder Jr.** | Дж. Уэллс Уайлдер | 1935–2021
+→ [wilder-welles](wilder-welles)
+
+**Заслуги:** Создатель фундаментальных индикаторов, изменивших технический анализ. Книга 1978 года стала библией трейдеров.
+
+**Индикаторы и системы:**
+- RSI (Relative Strength Index)
+- ADX (Average Directional Index)
+- ATR (Average True Range)
+- Parabolic SAR
+
+**Ключевые книги:**
+- *New Concepts in Technical Trading Systems* (1978)  
+  *«Новые концепции технических торговых систем»* (1997, Альпина Паблишер)
+
+---
+
+### 🥈 **2. Gerald Appel** | Джеральд Аппель | 1933–2023
+→ [appel-gerald](appel-gerald)
+
+**Заслуги:** Изобретатель MACD — одного из самых популярных индикаторов в мире. Автор влиятельных книг по техническому анализу.
+
+**Индикаторы и системы:**
+- MACD (Moving Average Convergence Divergence)
+- MACD-Histogram
+- PPO (Percentage Price Oscillator)
+
+**Ключевые книги:**
+- *How to Make Money in the Futures Market… and Lots of It!* (1970s)  
+  *«Как заработать на рынке фьючерсов… и немало!»*
+- *Technical Analysis: Power Tools for Active Investors* (2005)  
+  *«Технический анализ: Мощные инструменты для активных инвесторов»*
+
+**Ключевые статьи:**
+- Статьи в *Technical Analysis of Stocks & Commodities* (1980–1990-е)  
+  *«Технический анализ акций и товарных рынков»*
+
+---
+
+### 🥉 **3. Tushar Chande** | Тушар Чанде | 1958–
+→ [chande-tushar](chande-tushar)
+
+**Заслуги:** Автор множества инновационных индикаторов, сочетающих адаптивность и статистику. Пионер адаптивных методов.
+
+**Индикаторы и системы:**
+- AROON
+- CMO (Chande Momentum Oscillator)
+- VIDYA
+- QSTICK
+- RAVI
+- CFO (Chande Forecast Oscillator)
+- TrendScore
+
+**Ключевые книги:**
+- *The New Technical Trader* (1994, с С. Кроллом)  
+  *«Новый технический трейдер»*
+- *Beyond Technical Analysis* (2001)  
+  *«За пределами технического анализа»*
+
+**Ключевые статьи:**
+- «The Aroon Indicator» (TASC, Oct 1995)  
+  *«Индикатор Aroon»*
+- «Adapting Moving Averages To Market Volatility» (TASC, Mar 1992)  
+  *«Адаптация скользящих средних к рыночной волатильности»*
+
+---
+
+### **4. George Lane** | Джордж Лейн | 1921–2011
+→ [lane-george](lane-george)
+
+**Заслуги:** Создатель осциллятора Stochastic — классического индикатора перекупленности/перепроданности.
+
+**Индикаторы и системы:**
+- Stochastic Oscillator (Fast/Slow)
+
+**Ключевые книги:**
+- *George Lane's Stochastic Oscillator* (Traders Press, 1990)  
+  *«Стохастический осциллятор Джорджа Лейна»*
+
+**Ключевые статьи:**
+- *The Stochastic Oscillator* (TASC, 1984)  
+  *«Стохастический осциллятор»*
+
+---
+
+### **5. Richard Donchian** | Ричард Дончиан | 1905–1967
+→ [donchian-richard](donchian-richard)
+
+**Заслуги:** Отец трендового следования, создатель ценовых каналов и механических торговых систем.
+
+**Индикаторы и системы:**
+- Donchian Channels (Upper/Lower/Middle)
+- 52-Week High/Low
+
+**Ключевые книги:**
+- *Donchian's 20 Guides to Trading Commodities* (1934)  
+  *«20 руководств Дончиана по торговле товарами»*
+- *Commodity Trend Timing* (бюллетень, 1960–1979)  
+  *«Тайминг товарных трендов»*
+
+**Ключевые статьи:**
+- *Trend Following Methods in Commodity Price Analysis*  
+  *«Методы следования тренду в анализе цен на товары»*
+
+---
+
+### **6. John F. Ehlers** | Джон Ф. Элерс | 1933–
+→ [ehlers-john](ehlers-john)
+
+**Заслуги:** Применил цифровую обработку сигналов к рынкам, создал уникальные циклические индикаторы.
+
+**Индикаторы и системы:**
+- MAMA (MESA Adaptive Moving Average)
+- FAMA
+- Cyber Cycle
+- Fisher Transform
+- IFT (Inverse Fisher Transform)
+- Instantaneous Trendline
+
+**Ключевые книги:**
+- *Rocket Science for Traders* (2001)  
+  *«Ракетостроение для трейдеров»*
+- *Cybernetic Analysis for Stocks and Futures* (2004)  
+  *«Кибернетический анализ акций и фьючерсов»*
+- *Cycle Analytics for Traders* (2014)  
+  *«Циклический анализ для трейдеров»*
+
+**Ключевые статьи:**
+- *MESA and Trading Market Cycles* (1992)  
+  *«MESA и торговля рыночными циклами»*
+
+---
+
+### **7. John Bollinger** | Джон Боллинджер | 1950–
+→ [bollinger-john](bollinger-john)
+
+**Заслуги:** Изобретатель полос Боллинджера — динамических волатильностных каналов, ставших стандартом анализа.
+
+**Индикаторы и системы:**
+- Bollinger Bands
+- %B (Percent B)
+- BandWidth
+
+**Ключевые книги:**
+- *Bollinger on Bollinger Bands* (2002)  
+  *«Боллинджер о полосах Боллинджера»* (2006, Альпина Паблишер)
+
+**Ключевые статьи:**
+- «The Bollinger Band Squeeze»  
+  *«Сжатие полос Боллинджера»*
+- *Volatility Analysis* (различные публикации)  
+  *«Анализ волатильности»*
+
+---
+
+### **8. Perry Kaufman** | Перри Кауфман | 1943–
+→ [kaufman-perry](kaufman-perry)
+
+**Заслуги:** Автор энциклопедии алгоритмической торговли. Создатель адаптивной скользящей средней KAMA и метрики эффективности.
+
+**Индикаторы и системы:**
+- KAMA (Kaufman Adaptive Moving Average)
+- Efficiency Ratio (ER)
+
+**Ключевые книги:**
+- *Trading Systems and Methods* (1998, 2005, 2013)  
+  *«Торговые системы и методы»*
+- *Alpha Trading* (2009)  
+  *«Альфа-трейдинг»*
+- *Building Trading Systems* (2013)  
+  *«Построение торговых систем»*
+
+---
+
+### **9. Marc Chaikin** | Марк Чайкин | 1943–
+→ [chaikin-marc](chaikin-marc)
+
+**Заслуги:** Создатель системы анализа денежных потоков через связку цена-объём. Индикаторы стали стандартом для анализа объёма.
+
+**Индикаторы и системы:**
+- ADL (Accumulation/Distribution Line)
+- CMF (Chaikin Money Flow)
+- Chaikin Oscillator
+- CLV (Close Location Value)
+
+**Ключевые книги:**
+- *The DIY Investor* (2010)  
+  *«Самостоятельный инвестор»*
+- *Chaikin Analytics: A New Approach to Trading*  
+  *«Аналитика Чайкина: Новый подход к трейдингу»*
+
+---
+
+### **10. Joseph Granville** | Джозеф Гранвилл | 1923–2013
+→ [granville-joseph](granville-joseph)
+
+**Заслуги:** Пионер анализа объёма, создатель индикатора OBV и классических «8 правил» взаимодействия цены со скользящими средними.
+
+**Индикаторы и системы:**
+- OBV (On-Balance Volume)
+- Granville's Eight Rules
+
+**Ключевые книги:**
+- *Granville's New Key to Stock Market Profits* (1963)  
+  *«Новый ключ Гранвилла к прибылям на фондовом рынке»*
+- *The Stock Market Teacher* (1988)  
+  *«Учитель фондового рынка»*
+- *Granville's New Strategy of Daily Stock Market Timing*  
+  *«Новая стратегия Гранвилла ежедневного тайминга фондового рынка»*
+
+---
+
+### **11. Larry Williams** | Ларри Уильямс | 1942–
+→ [williams-larry](williams-larry)
+
+**Заслуги:** Автор популярных осцилляторов, включая %R и Ultimate Oscillator. Победитель чемпионата по трейдингу 1987 года.
+
+**Индикаторы и системы:**
+- Williams %R
+- Ultimate Oscillator
+- Williams VIX Fix
+
+**Ключевые книги:**
+- *How I Made One Million Dollars* (1973)  
+  *«Как я заработал один миллион долларов»*
+- *Long-Term Secrets to Short-Term Trading* (2000)  
+  *«Долгосрочные секреты краткосрочной торговли»*
+
+---
+
+### **12. Alexander Elder** | Александр Элдер | 1948–
+→ [elder-alexander](elder-alexander)
+
+**Заслуги:** Разработчик методики «Тройной экран», автор бестселлеров по психологии и методологии торговли.
+
+**Индикаторы и системы:**
+- Force Index
+- Elder-Ray
+- Triple Screen
+
+**Ключевые книги:**
+- *Trading for a Living* (1993)  
+  *«Трейдинг для жизни»* (1998, Альпина Паблишер)
+- *Come Into My Trading Room* (2002)  
+  *«Добро пожаловать в мою торговую комнату»* (2004, Альпина Паблишер)
+
+---
+
+### **13. Donald R. Lambert** | Дональд Р. Ламберт | —
+→ [lambert-donald](lambert-donald)
+
+**Заслуги:** Создатель универсального осциллятора CCI для определения циклических трендов.
+
+**Индикаторы и системы:**
+- CCI (Commodity Channel Index)
+
+**Ключевые статьи:**
+- *Commodity Channel Index: Tool for Trading Cyclic Trends*, Commodities Magazine, October 1980  
+  *«Индекс товарных каналов: Инструмент для торговли циклическими трендами»*
+
+---
+
+### **14. Gene Quong** | Джин Куонг | 1940–
+→ [quong-gene](quong-gene)
+
+**Заслуги:** Соавтор индикатора денежного потока MFI — объёмной версии RSI.
+
+**Индикаторы и системы:**
+- MFI (Money Flow Index, совместно с А. Судаком)
+
+**Ключевые статьи:**
+- *Volume-Weighted RSI: Money Flow* (с А. Судаком), TASC, Vol. 7 No. 3, 1989  
+  *«RSI, взвешенный по объёму: Денежный поток»*
+
+---
+
+### **15. Gilbert L. Raff** | Гилберт Л. Рафф | 1930s–2010s
+→ [raff-gilbert](raff-gilbert)
+
+**Заслуги:** Применил междисциплинарный подход (кардиология + физика → финансы), создал объективный статистический канал вместо субъективных.
+
+**Индикаторы и системы:**
+- Raff Regression Channel
+- Linear Regression Channel
+
+**Ключевые книги:**
+- *Trading the Regression Channel: Defining and Predicting Stock Price Trends* (1996)  
+  *«Торговля регрессионным каналом: Определение и прогнозирование ценовых трендов»*
+
+---
+
+### **16. Jack K. Hutson** | Джек К. Хатсон | —
+→ [hutson-jack](hutson-jack)
+
+**Заслуги:** Создатель осциллятора TRIX, фильтрующего рыночный шум через тройное сглаживание.
+
+**Индикаторы и системы:**
+- TRIX (Triple Exponential Smoothing Oscillator)
+
+**Ключевые статьи:**
+- *Good TRIX* (Stocks & Commodities, Vol. 1 No. 5, July/August 1983)  
+  *«Хороший TRIX»*
+- Издатель журнала *Technical Analysis of Stocks & Commodities*  
+  *«Технический анализ акций и товарных рынков»*
+
+---
+
+### **17. Ralph Nelson Elliott** | Ральф Нельсон Эллиотт | 1871–1948
+→ [elliott-ralph](elliott-ralph)
+
+**Заслуги:** Открыл волновой принцип — теорию повторяющихся рыночных паттернов, основанную на последовательности Фибоначчи.
+
+**Индикаторы и системы:**
+- Elliott Wave Principle
+
+**Ключевые книги:**
+- *Nature's Law* (1946)  
+  *«Закон природы»*
+
+---
+
+### **18. Richard D. Wyckoff** | Ричард Д. Вайкофф | 1873–1934
+→ [wyckoff-richard](wyckoff-richard)
+
+**Заслуги:** Разработчик метода анализа через изучение действий «умных денег». Один из отцов технического анализа.
+
+**Индикаторы и системы:**
+- Wyckoff Method
+- Composite Man
+
+**Ключевые книги:**
+- *Studies in Tape Reading* (1910)  
+  *«Исследования в чтении ленты»*
+- *How I Trade and Invest in Stocks* (1924)  
+  *«Как я торгую и инвестирую в акции»*
+
+---
+
+### **19. W. D. Gann** | Уильям Делберт Ганн | 1878–1955
+→ [gann-w-d](gann-w-d)
+
+**Заслуги:** Создатель уникальной геометрической и астрологической методики торговли на основе углов, квадратов и временных циклов.
+
+**Индикаторы и системы:**
+- Gann Angles
+- Square of Nine
+
+**Ключевые книги:**
+- *The Tunnel Thru the Air* (1927)  
+  *«Туннель сквозь воздух»*
+- *How to Make Profits in Commodities* (1942)  
+  *«Как получать прибыль на товарных рынках»*
+
+---
+
+### **20. Patrick G. Mulloy** | Патрик Г. Маллой | —
+→ [mulloy-patrick](mulloy-patrick)
+
+**Заслуги:** Улучшил скользящие средние, создав быстрые и менее лаговые версии (DEMA, TEMA).
+
+**Индикаторы и системы:**
+- DEMA (Double Exponential Moving Average)
+- TEMA (Triple Exponential Moving Average)
+
+**Ключевые статьи:**
+- *Smoothing Data with Faster Moving Averages*  
+  *«Сглаживание данных с помощью более быстрых скользящих средних»*
+- *Smoothing Data with Less Lag* (1994)  
+  *«Сглаживание данных с меньшим лагом»*
+
+---
+
+### **21. Charles LeBeau** | Чарльз Лебо | 1940–2023
+→ [lebeau-charles](lebeau-charles)
+
+**Заслуги:** Разработчик методологий выхода из позиций и систематического бэктестинга.
+
+**Индикаторы и системы:**
+- Chandelier Exit
+- Методологии выхода
+- Бэктестинг
+
+**Ключевые книги:**
+- *Technical Traders Guide to Computer Analysis of the Futures Markets* (с Д. Лукасом, 1992)  
+  *«Руководство технического трейдера по компьютерному анализу рынков фьючерсов»*
+
+---
+
+### **22. Tim Tillson** | Тим Тилсон | —
+→ [tillson-tim](tillson-tim)
+
+**Заслуги:** Создатель адаптивной скользящей средней T3, эффективно фильтрующей рыночный шум.
+
+**Индикаторы и системы:**
+- T3 Moving Average
+- Generalized DEMA
+
+**Ключевые статьи:**
+- *Smoothing Techniques for More Accurate Signals*, *Stocks & Commodities* (1998)  
+  *«Техники сглаживания для более точных сигналов»*
+
+---
+
+### **23. Price Headley** | Прайс Хедли | —
+→ [headley-price](headley-price)
+
+**Заслуги:** Разработчик Acceleration Bands для определения волатильности и потенциальных разворотов.
+
+**Индикаторы и системы:**
+- Acceleration Bands (ACCBANDS)
+
+**Ключевые книги:**
+- *Big Trends in Trading* (2010)  
+  *«Большие тренды в трейдинге»*
+- *The Trend Following Bible*  
+  *«Библия следования тренду»*
+
+---
+
+### **24. Igor Levshin** | Игорь Левшин | 1960–
+→ [levshin-igor](levshin-igor)
+
+**Заслуги:** Создатель индикатора баланса сил, определяющего баланс между покупателями и продавцами.
+
+**Индикаторы и системы:**
+- BOP (Balance of Power)
+
+**Ключевые статьи:**
+- «Balance of Power», *Technical Analysis of Stocks & Commodities*, August 2001  
+  *«Баланс сил»*
+
+---
+
+### **25. Jack Schwager** | Джек Швагер | 1948–
+→ [schwager-jack](schwager-jack)
+
+**Заслуги:** Систематизатор опыта успешных трейдеров. Автор серии книг «Рыночные волшебники», ставших культовыми.
+
+**Ключевые книги:**
+- *Market Wizards* (1989)  
+  *«Рыночные волшебники»* (1995, Альпина Паблишер)
+- *The New Market Wizards* (1992)  
+  *«Новые рыночные волшебники»* (1997, Альпина Паблишер)
+- *Stock Market Wizards* (2001)  
+  *«Волшебники фондового рынка»* (2001, Альпина Паблишер)
+
+---
+
+### **26. Mario Fortier** | Марио Фортье | 1970s–
+→ [fortier-mario](fortier-mario)
+
+**Заслуги:** Создатель библиотеки TA-Lib — эталонной реализации индикаторов для разработчиков. Инженерная систематизация алгоритмов.
+
+**Индикаторы и системы:**
+- TA-Lib (реализация 150+ индикаторов Уайлдера, Аппеля, Элдера и др.)
+
+---
+
+## Как использовать этот справочник
+
+- **Поиск по индикатору:** Найдите нужный индикатор в списке → увидите его создателя и ссылку на подробную страницу
+- **Поиск по книге:** Ищите название книги → найдёте автора
+- **Изучение методологий:** Выберите автора по рейтингу → изучите его подход и индикаторы
+- **Сравнение подходов:** Сравните заслуги разных авторов для понимания эволюции технического анализа
