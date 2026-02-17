@@ -3,7 +3,7 @@
 # ============================================================
 
 # Название сайта (отображается в шапке и вкладке браузера)
-site_name: TrendTeam Wiki
+site_name: SystemsCreator Wiki
 
 # URL сайта (для правильных ссылок при публикации)
 site_url: https://tradinglaboratory.github.io/wiki/      
@@ -110,6 +110,13 @@ nav:
       - Краткая справка: ta-pioneers/bollinger-john.md
       - Bbands (UpperBand, MiddleBand, LowerBand): TALib/OverlapStudies/BandsChannels/Bbands-TALib.md 
 
+    - Perry Kaufman: 
+      - Краткая справка: ta-pioneers/kaufman-perry.md
+      - Kama: TALib/OverlapStudies/Averages/Kama-TALib.md
+      - KaufmanER: TALib/MomentumIndicators/TrendStrength/KaufmanER-TALib.md 
+
+
+
     - Donald R. Lambert: 
       - Краткая справка: ta-pioneers/lambert-donald.md
       - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
@@ -166,6 +173,7 @@ nav:
           - Sma: TALib/OverlapStudies/Averages/Sma-TALib.md
           - Ema: TALib/OverlapStudies/Averages/Ema-TALib.md
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
+          - Kama: TALib/OverlapStudies/Averages/Kama-TALib.md
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
@@ -239,6 +247,7 @@ nav:
           - Adxr: TALib/MomentumIndicators/TrendStrength/Adxr-TALib.md
           - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md
           - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
+          - KaufmanER: TALib/MomentumIndicators/TrendStrength/KaufmanER-TALib.md
 
       - MathOperators:
         - MinIndex: TALib/MathOperators/MinIndex-TALib.md
