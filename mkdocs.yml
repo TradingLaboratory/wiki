@@ -172,6 +172,7 @@ nav:
       - OverlapStudies:
 
         - Averages:
+          - Ma: TALib/OverlapStudies/Averages/Ma-TALib.md
           - Sma: TALib/OverlapStudies/Averages/Sma-TALib.md
           - Ema: TALib/OverlapStudies/Averages/Ema-TALib.md
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
@@ -179,17 +180,17 @@ nav:
           - Kama: TALib/OverlapStudies/Averages/Kama-TALib.md
           - Mama (MAMA, FAMA): TALib/OverlapStudies/Averages/Mama-TALib.md
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
-          - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
           - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
-          
+          - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
 
         - PriceLevels:
           - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
           - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
           - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
-          - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md  
+          - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md
+          - HtTrendline: TALib/CycleIndicators/HtTrendline-TALib.md 
         
         - BandsChannels:
           - MinMax (Min, Max): TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
