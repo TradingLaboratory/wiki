@@ -98,6 +98,7 @@ nav:
 
     - John F. Ehlers: 
       - Краткая справка: ta-pioneers/ehlers-john.md
+      - Mama (MAMA, FAMA): TALib/OverlapStudies/Averages/Mama-TALib.md
       - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
       - HtDcPeriod: TALib/CycleIndicators/HtDcPeriod-TALib.md
       - HtDcPhase: TALib/CycleIndicators/HtDcPhase-TALib.md
@@ -105,6 +106,7 @@ nav:
       - HtSine (Sine, LeadSine): TALib/CycleIndicators/HtSine-TALib.md
       - HtTrendline: TALib/CycleIndicators/HtTrendline-TALib.md
       - HtTrendMode: TALib/CycleIndicators/HtTrendMode-TALib.md
+      - MamaAlpha: TALib/MomentumIndicators/TrendStrength/MamaAlpha-TALib.md
 
     - John Bollinger: 
       - Краткая справка: ta-pioneers/bollinger-john.md
@@ -173,13 +175,15 @@ nav:
           - Sma: TALib/OverlapStudies/Averages/Sma-TALib.md
           - Ema: TALib/OverlapStudies/Averages/Ema-TALib.md
           - WMA: TALib/OverlapStudies/Averages/Wma-TALib.md
+          - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
           - Kama: TALib/OverlapStudies/Averages/Kama-TALib.md
+          - Mama (MAMA, FAMA): TALib/OverlapStudies/Averages/Mama-TALib.md
           - T3 (Tillson T3): TALib/OverlapStudies/Averages/T3-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
           - Tema: TALib/OverlapStudies/Averages/Tema-TALib.md
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
           - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
-          - Mavp: TALib/OverlapStudies/Averages/Mavp-TALib.md
+          
 
         - PriceLevels:
           - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
@@ -248,6 +252,8 @@ nav:
           - AroonOsc: TALib/MomentumIndicators/TrendStrength/AroonOsc-TALib.md
           - Cci: TALib/MomentumIndicators/TrendStrength/Cci-TALib.md
           - KaufmanER: TALib/MomentumIndicators/TrendStrength/KaufmanER-TALib.md
+          - MamaAlpha: TALib/MomentumIndicators/TrendStrength/MamaAlpha-TALib.md
+          - HtTrendMode: TALib/CycleIndicators/HtTrendMode-TALib.md
 
       - MathOperators:
         - MinIndex: TALib/MathOperators/MinIndex-TALib.md
