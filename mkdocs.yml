@@ -127,6 +127,14 @@ nav:
       - Краткая справка: ta-pioneers/quong-gene.md
       - Mfi: TALib/MomentumIndicators/Oscillators/Mfi-TALib.md
 
+    - Gilbert L. Raff: 
+      - Краткая справка: ta-pioneers/raff-gilbert.md
+      - LinearReg: TALib/StatisticFunctions/LinearReg-TALib.md
+      - LinearRegAngle: TALib/StatisticFunctions/LinearRegAngle-TALib.md
+      - LinearRegIntercept: TALib/StatisticFunctions/LinearRegIntercept-TALib.md
+
+
+
     - Jack K. Hutson:
       - Краткая справка: ta-pioneers/hutson-jack.md
       - Trix: TALib/MomentumIndicators/UnboundedMomentum/Trix-TALib.md
@@ -184,13 +192,16 @@ nav:
           - Dema: TALib/OverlapStudies/Averages/Dema-TALib.md
           - Trima: TALib/OverlapStudies/Averages/Trima-TALib.md
           - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
+          - LinearReg: TALib/StatisticFunctions/LinearReg-TALib.md
+          - HtTrendline: TALib/CycleIndicators/HtTrendline-TALib.md
 
         - PriceLevels:
           - Max (Highest): TALib/OverlapStudies/PriceLevels/Max-TALib.md
           - Min (Lowest): TALib/OverlapStudies/PriceLevels/Min-TALib.md 
           - MidPoint: TALib/OverlapStudies/PriceLevels/MidPoint-TALib.md  
           - MidPrice: TALib/OverlapStudies/PriceLevels/MidPrice-TALib.md
-          - HtTrendline: TALib/CycleIndicators/HtTrendline-TALib.md 
+          - LinearRegIntercept: TALib/StatisticFunctions/LinearRegIntercept-TALib.md
+          
         
         - BandsChannels:
           - MinMax (Min, Max): TALib/OverlapStudies/BandsChannels/MinMax-TALib.md 
@@ -201,6 +212,7 @@ nav:
         - Trailings:
           - Sar: TALib/OverlapStudies/Trailings/Sar-TALib.md
           - SarExt: TALib/OverlapStudies/Trailings/SarExt-TALib.md
+          - LinearRegIntercept: TALib/StatisticFunctions/LinearRegIntercept-TALib.md
       
       - MomentumIndicators:
         
@@ -244,6 +256,9 @@ nav:
           - PlusDM: TALib/MomentumIndicators/TrendDirection/PlusDM-TALib.md
           - MinusDM: TALib/MomentumIndicators/TrendDirection/MinusDM-TALib.md
           - Aroon (Up, Down): TALib/MomentumIndicators/TrendDirection/Aroon-TALib.md
+          - LinearRegAngle: TALib/StatisticFunctions/LinearRegAngle-TALib.md
+          - LinearRegSlope: TALib/StatisticFunctions/LinearRegSlope-TALib.md
+          
         
         
         - TrendStrength:
@@ -255,6 +270,7 @@ nav:
           - KaufmanER: TALib/MomentumIndicators/TrendStrength/KaufmanER-TALib.md
           - MamaAlpha: TALib/MomentumIndicators/TrendStrength/MamaAlpha-TALib.md
           - HtTrendMode: TALib/CycleIndicators/HtTrendMode-TALib.md
+          - LinearRegAngle: TALib/StatisticFunctions/LinearRegAngle-TALib.md
 
       - MathOperators:
         - MinIndex: TALib/MathOperators/MinIndex-TALib.md
@@ -294,12 +310,16 @@ nav:
 
       - PriceTransform:
         - WclPrice: TALib/PriceTransform/WclPrice-TALib.md
+        - AvgPrice: TALib/PriceTransform/AvgPrice-TALib.md
+        - MedPrice: TALib/PriceTransform/MedPrice-TALib.md
+        - TypPrice: TALib/PriceTransform/TypPrice-TALib.md
       
       - VolumeIndicators:
         - Obv: TALib/VolumeIndicators/Obv-TALib.md
       
       - VolatilityIndicators:
         - Natr: TALib/VolatilityIndicators/Natr-TALib.md
+        - Var: TALib/StatisticFunctions/Var-TALib.md
 
       - CycleIndicators:
         - HtDcPeriod: TALib/CycleIndicators/HtDcPeriod-TALib.md
@@ -311,6 +331,13 @@ nav:
       
       - StatisticFunctions:
         - Tsf: TALib/StatisticFunctions/Tsf-TALib.md
+        - Beta: TALib/StatisticFunctions/Beta-TALib.md
+        - Correl: TALib/StatisticFunctions/Correl-TALib.md
+        - LinearReg: TALib/StatisticFunctions/LinearReg-TALib.md
+        - LinearRegAngle: TALib/StatisticFunctions/LinearRegAngle-TALib.md
+        - LinearRegSlope: TALib/StatisticFunctions/LinearRegSlope-TALib.md
+        - LinearRegIntercept: TALib/StatisticFunctions/LinearRegIntercept-TALib.md
+        - Var: TALib/StatisticFunctions/Var-TALib.md
     
     # Подраздел "Индикаторы VITO"
     - Индикаторы VITO:
