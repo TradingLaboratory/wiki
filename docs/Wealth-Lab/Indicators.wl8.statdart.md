@@ -1,200 +1,3 @@
-## Негруппированный список индикаторов:
-
-WealthLab.Indicators
-├── Abs
-├── AccelerationBandsLower
-├── AccelerationBandsUpper
-├── AccumDist
-├── ADX
-├── ADXR
-├── Alpha
-├── AroonDown
-├── AroonOscillator
-├── AroonUp
-├── ATHigh
-├── ATLow
-├── ATR
-├── ATRBandLower
-├── ATRBandUpper
-├── ATRP
-├── BarHistoryIndicatorWrapper
-├── BarOfTheDay
-├── BarsSince
-├── BBLower
-├── BBUpper
-├── BBWidth
-├── Beta
-├── Camarilla
-├── CCI
-├── ChaikinOsc
-├── Choppiness
-├── CMF
-├── CMO
-├── ConsecCandle
-├── ConsecDown
-├── ConsecUp
-├── Coppock
-├── Corr
-├── CrossOverBar
-├── CrossoverIndValue
-├── CrossUnderBar
-├── CrossUnderValueBar
-├── CSI
-├── CutlersRSI
-├── DayOfMth
-├── DayOfWk
-├── DayOfYr
-├── Density
-├── DILminus
-├── DILplus
-├── DIP
-├── DirectionalMovement
-├── DonchianMid
-├── DSS
-├── DX
-├── DyMol
-├── EMA
-├── EMV
-├── EnvelopeLower
-├── EnvelopeUpper
-├── ER
-├── FastSMA
-├── FIR
-├── Fred
-├── Fundamental
-├── FundamentalRatio
-├── Gap
-├── GMA
-├── Highest
-├── HighestGranularClose
-├── HiLoLimit
-├── HourOfDay
-├── Hurst
-├── HV
-├── IBS
-├── IndicatorBase
-├── IndicatorEventArgs
-├── IndicatorFactory
-├── IndOnInd
-├── KaseCD_Oscillator
-├── KasePeakOscillator
-├── KDJ
-├── KeltnLower
-├── KeltnUpper
-├── KST
-├── KVO
-├── LogReturn
-├── Lowest
-├── LowestGranularClose
-├── LR
-├── LRSlope
-├── MACD
-├── MACDClassic
-├── MACDHist
-├── MansfieldRelativeStrength
-├── MarketState
-├── MassIndex
-├── MathIndOpInd
-├── MathIndOpValue
-├── MathOperation
-├── MathOperationExtensions
-├── MeanAbsDev
-├── Median
-├── MFI
-├── MinerviniTrendRatio
-├── MinOfDay
-├── MnthOfYr
-├── Mode
-├── Momentum
-├── NamedSeries
-├── NegativeCloses
-├── OBV
-├── OffsetInd
-├── PBFastOsc
-├── PBSlowOsc
-├── PctRank
-├── PeakTrough
-├── PeakTroughCalculator
-├── PeakTroughReversalType
-├── PeakTroughType
-├── PercentOffATH
-├── PMO
-├── PositiveCloses
-├── ProjectionBandLower
-├── ProjectionBandUpper
-├── PSAR
-├── QStick
-├── RealRelativeStrength
-├── RisingFalling
-├── RMI
-├── ROC
-├── ROC100
-├── RSI
-├── RsiWilliamsVixFix
-├── RSquared
-├── RVI
-├── ScaledInd
-├── SeriesAboveOrBelow
-├── SeriesAboveOrBelowValue
-├── SMA
-├── SMI
-├── SMMA
-├── SmoothedInd
-├── SpecialK
-├── SplitReverse
-├── Squeeze
-├── StdDev
-├── StdError
-├── StochD
-├── StochDSlow
-├── StochK
-├── StochKSlow
-├── Stoch├── Sum
-├── SwingHi
-├── SwingHiLo
-├── SwingLo
-├── SymbolData
-├── SymbolInd
-├── TimeOfDay
-├── TimeSeriesIndicatorWrapper
-├── TR
-├── TradingDaysLeft
-├── TradingDaysSince
-├── TransformerIndicatorBase
-├── TrendLine
-├── TrendMeter
-├── TrendScore
-├── TSF
-├── TSI
-├── Turnover
-├── UltimateOsc
-├── UpDown
-├── UpDownVolume
-├── USTYield
-├── VChart
-├── VKBandLower
-├── VKBandUpper
-├── VKWBandLower
-├── VKWBandUpper
-├── VolProHighNode
-├── VolProLowNodeLower
-├── VolProLowNodeUpper
-├── VolumeProfileCacheInfo
-├── VolumeProfileIndicator
-├── VPT
-├── VSI
-├── WAP
-├── WilderMA
-├── WilderVolStop
-├── WilliamsPctR
-├── WMA
-├── ZigZag
-├── ZigZagHL
-├── ZScore
-
-
-## Сгруппированный список
-
 Indicators/
 ├── MomentumIndicators/
 │   ├── Oscillators/
@@ -220,7 +23,7 @@ Indicators/
 │   │   ├── RMI.cs
 │   │   ├── DSS.cs
 │   │   ├── ChaikinOsc.cs
-│   │   ├── IBS.cs
+│   │   ├── [IBS](IBS-wl8.md)
 │   │   ├── ConsecUp.cs
 │   │   ├── ConsecDown.cs
 │   │   ├── ConsecCandle.cs
@@ -238,7 +41,7 @@ Indicators/
 │   │   ├── Momentum.cs
 │   │   ├── KVO.cs
 │   │   ├── LR.cs
-│   │   ├── LRSlope.cs
+│   │   ├── [LRSlope](LRSLope-wl8.md)
 │   │   ├── TSF.cs
 │   │   ├── PBFastOsc.cs
 │   │   └── PBSlowOsc.cs
@@ -261,8 +64,8 @@ Indicators/
 │       └── TrendScore.cs
 ├── OverlapStudies/
 │   ├── MovingAverages/
-│   │   ├── [SMA](SMA-wl8).cs
-│   │   ├── FastSMA.cs
+│   │   ├── [SMA](SMA-wl8)
+│   │   ├── [FastSMA](FastSMA-wl8.md)
 │   │   ├── EMA.cs
 │   │   ├── WMA.cs
 │   │   ├── SMMA.cs
@@ -302,7 +105,7 @@ Indicators/
 │   └── PriceLevels/
 │       ├── Highest.cs
 │       ├── HighestGranularClose.cs
-│       ├── Lowest.cs
+│       ├── [Lowest](Lowest-wl8.md)
 │       ├── LowestGranularClose.cs
 │       ├── ATHigh.cs
 │       ├── ATLow.cs
@@ -332,8 +135,8 @@ Indicators/
 │   ├── VolProLowNodeUpper.cs
 │   └── VolumeProfileCacheInfo.cs
 ├── VolatilityIndicators/
-│   ├── ATR.cs
-│   ├── ATRP.cs
+│   ├── [[ATR]].cs
+│   ├── [[ATRP]]
 │   ├── Choppiness.cs
 │   ├── StdDev.cs
 │   ├── StdError.cs
@@ -372,7 +175,7 @@ Indicators/
 │   ├── IndicatorEventArgs.cs
 │   ├── IndicatorFactory.cs
 │   ├── IndOnInd.cs
-│   ├── MathIndOpInd.cs
+│   ├── [MathIndOpInd](MathIndOpInd-wl8.md)
 │   ├── MathIndOpValue.cs
 │   ├── MathOperation.cs
 │   ├── MathOperationExtensions.cs

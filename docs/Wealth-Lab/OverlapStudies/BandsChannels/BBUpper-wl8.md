@@ -1,3 +1,19 @@
+The upper Bollinger Band, calculated a specified number of standard deviations above a moving average, used to identify overbought conditions or volatility-based resistance. Recommended: Period = 20 · StdDev = 2.0
+
+```C#
+        public static BBUpper Series(
+	        TimeSeries source, 
+	        int period, 
+	        double stdDevs);
+	        
+        public static double Value(
+	        int idx, 
+	        TimeSeries source, 
+	        int period, 
+	        double stdDevs);
+```
+
+
 Код метода:
 
 ```C#
