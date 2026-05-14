@@ -305,8 +305,8 @@ if (!double.IsNaN(indicator[barNum]))
 
 - [[wl8-indicators]] — Полный список методов для расчёта индикаторов
 - [[wl8-references]] — Сборник полезных ссылок по Wealth-Lab 8
-- [[MAMA-task]] — Детальная документация по MAMA
-- [[FAMA-task]] — Детальная документация по FAMA
+- [[mama-task]] — Детальная документация по MAMA
+- [[fama-task]] — Детальная документация по FAMA
 - [[MathIndOpInd-wl8]] — Математические операции над индикаторами
 
 ---

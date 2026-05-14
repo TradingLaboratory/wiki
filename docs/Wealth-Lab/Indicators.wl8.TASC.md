@@ -1,2 +1,0 @@
-[[FAMA-task]]
-[[MAMA-task]]

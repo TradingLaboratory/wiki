@@ -1,4 +1,36 @@
+﻿---
+kv-updated: 2026-05-01
+kv-counter: 0
+kv-summary: TALib справочник. Momentum, Volatility, Volume индикаторы. RSI, MACD, ATR, BBANDS с параметрами и примерами.
+kv-zone: raw
+kv-status: processed
+kv-type: reference
+kv-raw:
+  - "[[talib-indicators]]"
+tags:
+  - talib
+  - indicators
+  - trading
+  - technical-analysis
+  - momentum
+  - volatility
+date: 2026-04-30
+title: TALib-Indicators
+---
+
 # TALib-Indicators
+
+## Query & Sources
+
+**Query:** Индикаторы TALib — как использовать, параметры, категории
+
+**Sources:**
+- Официальная документация TALib
+- База знаний Knowledge Vault
+
+**Enriched by:**
+- documentation
+- technical-analysis
 
 Эта страница представляет собой справочник по индикаторам библиотеки TALib — популярной библиотеке технического анализа, используемой в алгоритмической торговле. Все индикаторы сгруппированы в логические категории согласно их функционалу и математической основе. Каждый индикатор описан с точки зрения практического применения: указаны основные характеристики, типичные параметры и аналоги в других торговых платформах. Структура страницы позволяет легко находить нужный индикатор и понимать его роль в системе технического анализа.
 
@@ -11,15 +43,15 @@
 | Категория                | Описание                                                              | Примеры индикаторов                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **MomentumIndicators**   | Измеряют силу/скорость движения цены, перекупленность/перепроданность | RSI, MACD, CCI, STOCH, ADX, MFI, AROON, [WillR](WillR-TALib.md), [MinusDI](MinusDI-TALib.md), [PPO](Ppo-TALib.md), [UltOsc](UltOsc-TALib.md), [MinusDM](MinusDM-TALib.md), [Roc](Roc-TALib.md), [RocP](RocP-TALib.md), [RocR](RocR-TALib.md), [RocR100](RocR100-TALib.md), [StochRsi](StochRsi-TALib.md) |
-| **OverlapStudies**       | Перекрывают ценовой график (скользящие средние, полосы, уровни)       | SMA, EMA, BBANDS, DEMA, SAR, KAMA, ACCBANDS, WMA, [SarExt](SarExt-TALib.md), [Tsf](TALib/StatisticFunctions/Tsf-TALib.md)                                                                                                                                                                                                                                                                                                                                                        |
+| **OverlapStudies**       | Перекрывают ценовой график (скользящие средние, полосы, уровни)       | SMA, EMA, BBANDS, DEMA, SAR, KAMA, ACCBANDS, WMA, [SarExt](SarExt-TALib.md), [Tsf](Tsf-TALib.md)                                                                                                                                                                                                                                                                                                                                                        |
 | **VolatilityIndicators** | Измеряют волатильность и размах ценовых колебаний                     | ATR, STDDEV, TRANGE, AVGDEV                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **VolumeIndicators**     | Анализируют объёмы торгов для подтверждения сигналов                  | AD, ADOSC                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **PriceTransform**       | Преобразуют исходные цены в производные метрики                       | AVGPRICE, MEDPRICE, TYPPRICE, [WclPrice](TALib/PriceTransform/WclPrice-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **PriceTransform**       | Преобразуют исходные цены в производные метрики                       | AVGPRICE, MEDPRICE, TYPPRICE, [WclPrice](WclPrice-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **StatisticFunctions**   | Статистический анализ ценовых рядов                                   | BETA, CORREL, LINEARREG, VAR                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **CycleIndicators**      | Выявляют циклические паттерны (не представлены в выборке)             | MAMA, FAMA                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **MathOperators**        |                                                                       | [MinMaxIndex](MinMaxIndex-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **MathTransform**        |                                                                       | [SQRT](Sqrt-TALib.md), [Tan](Tan-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **StatisticFunctions**   |                                                                       | [Tsf](TALib/StatisticFunctions/Tsf-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| **StatisticFunctions**   |                                                                       | [Tsf](Tsf-TALib.md)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |                          |                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
 ---

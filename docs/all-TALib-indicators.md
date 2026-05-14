@@ -1,5 +1,6 @@
+# all-TALib-indicators
 ## Индикаторы из библиотеки TALib
-![[TALib-Indicators]]
+![[talib-indicators]]
 
 ### 1. Индикаторы циклов
 ![[HtDcPeriod-TALib]]

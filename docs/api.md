@@ -10,7 +10,7 @@
 
 ## Первые шаги
 
-1. Изучи примеры кода в разделе [Examples](examples.md)
+1. Изучи примеры кода в разделе [Examples](raw/documentation/wiki-indicators/docs/examples.md)
 2. Прочитай документацию [API](api.md)
 3. Начни с простой стратегии
 4. Тестируй на истории перед реальной торговлей
@@ -18,5 +18,5 @@
 ## Полезные ссылки
 
 - [API Documentation](api.md)
-- [Examples](examples.md)
-- [Troubleshooting](troubleshooting.md)
+- [Examples](raw/documentation/wiki-indicators/docs/examples.md)
+- [Troubleshooting](raw/documentation/wiki-indicators/docs/troubleshooting.md)
